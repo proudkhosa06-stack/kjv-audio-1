@@ -1,0 +1,198 @@
+{
+ "book": "Genesis",
+ "chapter": 34,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Genesis-34.mp3",
+ "duration": 283.75,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.93,
+   "text": "And Dinah the daughter of Leah, which she bare unto Jacob, went out to see the daughters of the land."
+  },
+  {
+   "verse": 2,
+   "start": 7.63,
+   "end": 17.43,
+   "text": "And when Shechem the son of Hamor the Hivite, prince of the country, saw her, he took her, and lay with her, and defiled her."
+  },
+  {
+   "verse": 3,
+   "start": 18.13,
+   "end": 25.75,
+   "text": "And his soul clave unto Dinah the daughter of Jacob, and he loved the damsel, and spake kindly unto the damsel."
+  },
+  {
+   "verse": 4,
+   "start": 26.45,
+   "end": 31.7,
+   "text": "And Shechem spake unto his father Hamor, saying, Get me this damsel to wife."
+  },
+  {
+   "verse": 5,
+   "start": 32.4,
+   "end": 40.85,
+   "text": "And Jacob heard that he had defiled Dinah his daughter: now his sons were with his cattle in the field: and Jacob held his peace until they were come."
+  },
+  {
+   "verse": 6,
+   "start": 41.55,
+   "end": 46.56,
+   "text": "And Hamor the father of Shechem went out unto Jacob to commune with him."
+  },
+  {
+   "verse": 7,
+   "start": 47.26,
+   "end": 60.89,
+   "text": "And the sons of Jacob came out of the field when they heard it: and the men were grieved, and they were very wroth, because he had wrought folly in Israel in lying with Jacob's daughter; which thing ought not to be done."
+  },
+  {
+   "verse": 8,
+   "start": 61.59,
+   "end": 70.45,
+   "text": "And Hamor communed with them, saying, The soul of my son Shechem longeth for your daughter: I pray you give her him to wife."
+  },
+  {
+   "verse": 9,
+   "start": 71.15,
+   "end": 77.23,
+   "text": "And make ye marriages with us, and give your daughters unto us, and take our daughters unto you."
+  },
+  {
+   "verse": 10,
+   "start": 77.93,
+   "end": 86.29,
+   "text": "And ye shall dwell with us: and the land shall be before you; dwell and trade ye therein, and get you possessions therein."
+  },
+  {
+   "verse": 11,
+   "start": 86.99,
+   "end": 95.32,
+   "text": "And Shechem said unto her father and unto her brethren, Let me find grace in your eyes, and what ye shall say unto me I will give."
+  },
+  {
+   "verse": 12,
+   "start": 96.02,
+   "end": 104.99,
+   "text": "Ask me never so much dowry and gift, and I will give according as ye shall say unto me: but give me the damsel to wife."
+  },
+  {
+   "verse": 13,
+   "start": 105.69,
+   "end": 113.44,
+   "text": "And the sons of Jacob answered Shechem and Hamor his father deceitfully, and said, because he had defiled Dinah their sister:"
+  },
+  {
+   "verse": 14,
+   "start": 114.14,
+   "end": 122.99,
+   "text": "And they said unto them, We cannot do this thing, to give our sister to one that is uncircumcised; for that were a reproach unto us:"
+  },
+  {
+   "verse": 15,
+   "start": 123.69,
+   "end": 130.75,
+   "text": "But in this will we consent unto you: If ye will be as we be, that every male of you be circumcised;"
+  },
+  {
+   "verse": 16,
+   "start": 131.45,
+   "end": 139.94,
+   "text": "Then will we give our daughters unto you, and we will take your daughters to us, and we will dwell with you, and we will become one people."
+  },
+  {
+   "verse": 17,
+   "start": 140.64,
+   "end": 147.56,
+   "text": "But if ye will not hearken unto us, to be circumcised; then will we take our daughter, and we will be gone."
+  },
+  {
+   "verse": 18,
+   "start": 148.26,
+   "end": 152.09,
+   "text": "And their words pleased Hamor, and Shechem Hamor's son."
+  },
+  {
+   "verse": 19,
+   "start": 152.79,
+   "end": 161.5,
+   "text": "And the young man deferred not to do the thing, because he had delight in Jacob's daughter: and he was more honourable than all the house of his father."
+  },
+  {
+   "verse": 20,
+   "start": 162.2,
+   "end": 168.95,
+   "text": "And Hamor and Shechem his son came unto the gate of their city, and communed with the men of their city, saying,"
+  },
+  {
+   "verse": 21,
+   "start": 169.65,
+   "end": 182.91,
+   "text": "These men are peaceable with us; therefore let them dwell in the land, and trade therein; for the land, behold, it is large enough for them; let us take their daughters to us for wives, and let us give them our daughters."
+  },
+  {
+   "verse": 22,
+   "start": 183.61,
+   "end": 193.42,
+   "text": "Only herein will the men consent unto us for to dwell with us, to be one people, if every male among us be circumcised, as they are circumcised."
+  },
+  {
+   "verse": 23,
+   "start": 194.12,
+   "end": 202.36,
+   "text": "Shall not their cattle and their substance and every beast of theirs be ours? only let us consent unto them, and they will dwell with us."
+  },
+  {
+   "verse": 24,
+   "start": 203.06,
+   "end": 213.77,
+   "text": "And unto Hamor and unto Shechem his son hearkened all that went out of the gate of his city; and every male was circumcised, all that went out of the gate of his city."
+  },
+  {
+   "verse": 25,
+   "start": 214.47,
+   "end": 227.92,
+   "text": "And it came to pass on the third day, when they were sore, that two of the sons of Jacob, Simeon and Levi, Dinah's brethren, took each man his sword, and came upon the city boldly, and slew all the males."
+  },
+  {
+   "verse": 26,
+   "start": 228.62,
+   "end": 236.45,
+   "text": "And they slew Hamor and Shechem his son with the edge of the sword, and took Dinah out of Shechem's house, and went out."
+  },
+  {
+   "verse": 27,
+   "start": 237.15,
+   "end": 243.28,
+   "text": "The sons of Jacob came upon the slain, and spoiled the city, because they had defiled their sister."
+  },
+  {
+   "verse": 28,
+   "start": 243.98,
+   "end": 250.86,
+   "text": "They took their sheep, and their oxen, and their asses, and that which was in the city, and that which was in the field,"
+  },
+  {
+   "verse": 29,
+   "start": 251.56,
+   "end": 259.15,
+   "text": "And all their wealth, and all their little ones, and their wives took they captive, and spoiled even all that was in the house."
+  },
+  {
+   "verse": 30,
+   "start": 259.85,
+   "end": 278.51,
+   "text": "And Jacob said to Simeon and Levi, Ye have troubled me to make me to stink among the inhabitants of the land, among the Canaanites and the Perizzites: and I being few in number, they shall gather themselves together against me, and slay me; and I shall be destroyed, I and my house."
+  },
+  {
+   "verse": 31,
+   "start": 279.21,
+   "end": 282.69,
+   "text": "And they said, Should he deal with our sister as with an harlot?"
+  }
+ ]
+}

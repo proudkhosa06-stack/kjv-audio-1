@@ -1,0 +1,204 @@
+{
+ "book": "Genesis",
+ "chapter": 5,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Genesis-5.mp3",
+ "duration": 203.4,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.16,
+   "text": "This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;"
+  },
+  {
+   "verse": 2,
+   "start": 8.86,
+   "end": 15.28,
+   "text": "Male and female created he them; and blessed them, and called their name Adam, in the day when they were created."
+  },
+  {
+   "verse": 3,
+   "start": 15.98,
+   "end": 24.46,
+   "text": "And Adam lived an hundred and thirty years, and begat a son in his own likeness, after his image; and called his name Seth:"
+  },
+  {
+   "verse": 4,
+   "start": 25.16,
+   "end": 31.92,
+   "text": "And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:"
+  },
+  {
+   "verse": 5,
+   "start": 32.62,
+   "end": 37.93,
+   "text": "And all the days that Adam lived were nine hundred and thirty years: and he died."
+  },
+  {
+   "verse": 6,
+   "start": 38.63,
+   "end": 43.04,
+   "text": "And Seth lived an hundred and five years, and begat Enos:"
+  },
+  {
+   "verse": 7,
+   "start": 43.74,
+   "end": 50.11,
+   "text": "And Seth lived after he begat Enos eight hundred and seven years, and begat sons and daughters:"
+  },
+  {
+   "verse": 8,
+   "start": 50.81,
+   "end": 55.92,
+   "text": "And all the days of Seth were nine hundred and twelve years: and he died."
+  },
+  {
+   "verse": 9,
+   "start": 56.62,
+   "end": 60.07,
+   "text": "And Enos lived ninety years, and begat Cainan:"
+  },
+  {
+   "verse": 10,
+   "start": 60.77,
+   "end": 67.56,
+   "text": "And Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters:"
+  },
+  {
+   "verse": 11,
+   "start": 68.26,
+   "end": 72.8,
+   "text": "And all the days of Enos were nine hundred and five years: and he died."
+  },
+  {
+   "verse": 12,
+   "start": 73.5,
+   "end": 77.29,
+   "text": "And Cainan lived seventy years, and begat Mahalaleel:"
+  },
+  {
+   "verse": 13,
+   "start": 77.99,
+   "end": 84.89,
+   "text": "And Cainan lived after he begat Mahalaleel eight hundred and forty years, and begat sons and daughters:"
+  },
+  {
+   "verse": 14,
+   "start": 85.59,
+   "end": 90.02,
+   "text": "And all the days of Cainan were nine hundred and ten years: and he died."
+  },
+  {
+   "verse": 15,
+   "start": 90.72,
+   "end": 94.64,
+   "text": "And Mahalaleel lived sixty and five years, and begat Jared:"
+  },
+  {
+   "verse": 16,
+   "start": 95.34,
+   "end": 102.03,
+   "text": "And Mahalaleel lived after he begat Jared eight hundred and thirty years, and begat sons and daughters:"
+  },
+  {
+   "verse": 17,
+   "start": 102.73,
+   "end": 108.1,
+   "text": "And all the days of Mahalaleel were eight hundred ninety and five years: and he died."
+  },
+  {
+   "verse": 18,
+   "start": 108.8,
+   "end": 113.4,
+   "text": "And Jared lived an hundred sixty and two years, and he begat Enoch:"
+  },
+  {
+   "verse": 19,
+   "start": 114.1,
+   "end": 120.25,
+   "text": "And Jared lived after he begat Enoch eight hundred years, and begat sons and daughters:"
+  },
+  {
+   "verse": 20,
+   "start": 120.95,
+   "end": 125.56,
+   "text": "And all the days of Jared were nine hundred sixty and two years: and he died."
+  },
+  {
+   "verse": 21,
+   "start": 126.26,
+   "end": 130.49,
+   "text": "And Enoch lived sixty and five years, and begat Methuselah:"
+  },
+  {
+   "verse": 22,
+   "start": 131.19,
+   "end": 138.66,
+   "text": "And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:"
+  },
+  {
+   "verse": 23,
+   "start": 139.36,
+   "end": 143.23,
+   "text": "And all the days of Enoch were three hundred sixty and five years:"
+  },
+  {
+   "verse": 24,
+   "start": 143.93,
+   "end": 148.1,
+   "text": "And Enoch walked with God: and he was not; for God took him."
+  },
+  {
+   "verse": 25,
+   "start": 148.8,
+   "end": 153.85,
+   "text": "And Methuselah lived an hundred eighty and seven years, and begat Lamech:"
+  },
+  {
+   "verse": 26,
+   "start": 154.55,
+   "end": 161.52,
+   "text": "And Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters:"
+  },
+  {
+   "verse": 27,
+   "start": 162.22,
+   "end": 168.06,
+   "text": "And all the days of Methuselah were nine hundred sixty and nine years: and he died."
+  },
+  {
+   "verse": 28,
+   "start": 168.76,
+   "end": 172.98,
+   "text": "And Lamech lived an hundred eighty and two years, and begat a son:"
+  },
+  {
+   "verse": 29,
+   "start": 173.68,
+   "end": 182.53,
+   "text": "And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the LORD hath cursed."
+  },
+  {
+   "verse": 30,
+   "start": 183.23,
+   "end": 190.33,
+   "text": "And Lamech lived after he begat Noah five hundred ninety and five years, and begat sons and daughters:"
+  },
+  {
+   "verse": 31,
+   "start": 191.03,
+   "end": 196.21,
+   "text": "And all the days of Lamech were seven hundred seventy and seven years: and he died."
+  },
+  {
+   "verse": 32,
+   "start": 196.91,
+   "end": 202.35,
+   "text": "And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth."
+  }
+ ]
+}
