@@ -1,0 +1,294 @@
+{
+ "book": "Leviticus",
+ "chapter": 11,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Leviticus-11.mp3",
+ "duration": 431.88,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 4.12,
+   "text": "And the LORD spake unto Moses and to Aaron, saying unto them,"
+  },
+  {
+   "verse": 2,
+   "start": 4.82,
+   "end": 12.91,
+   "text": "Speak unto the children of Israel, saying, These are the beasts which ye shall eat among all the beasts that are on the earth."
+  },
+  {
+   "verse": 3,
+   "start": 13.61,
+   "end": 21.64,
+   "text": "Whatsoever parteth the hoof, and is clovenfooted, and cheweth the cud, among the beasts, that shall ye eat."
+  },
+  {
+   "verse": 4,
+   "start": 22.34,
+   "end": 34.86,
+   "text": "Nevertheless these shall ye not eat of them that chew the cud, or of them that divide the hoof: as the camel, because he cheweth the cud, but divideth not the hoof; he is unclean unto you."
+  },
+  {
+   "verse": 5,
+   "start": 35.56,
+   "end": 42.07,
+   "text": "And the coney, because he cheweth the cud, but divideth not the hoof; he is unclean unto you."
+  },
+  {
+   "verse": 6,
+   "start": 42.77,
+   "end": 49.7,
+   "text": "And the hare, because he cheweth the cud, but divideth not the hoof; he is unclean unto you."
+  },
+  {
+   "verse": 7,
+   "start": 50.4,
+   "end": 58.09,
+   "text": "And the swine, though he divide the hoof, and be clovenfooted, yet he cheweth not the cud; he is unclean to you."
+  },
+  {
+   "verse": 8,
+   "start": 58.79,
+   "end": 65.68,
+   "text": "Of their flesh shall ye not eat, and their carcase shall ye not touch; they are unclean to you."
+  },
+  {
+   "verse": 9,
+   "start": 66.38,
+   "end": 76.81,
+   "text": "These shall ye eat of all that are in the waters: whatsoever hath fins and scales in the waters, in the seas, and in the rivers, them shall ye eat."
+  },
+  {
+   "verse": 10,
+   "start": 77.51,
+   "end": 89.4,
+   "text": "And all that have not fins and scales in the seas, and in the rivers, of all that move in the waters, and of any living thing which is in the waters, they shall be an abomination unto you:"
+  },
+  {
+   "verse": 11,
+   "start": 90.1,
+   "end": 98.43,
+   "text": "They shall be even an abomination unto you; ye shall not eat of their flesh, but ye shall have their carcases in abomination."
+  },
+  {
+   "verse": 12,
+   "start": 99.13,
+   "end": 105.1,
+   "text": "Whatsoever hath no fins nor scales in the waters, that shall be an abomination unto you."
+  },
+  {
+   "verse": 13,
+   "start": 105.8,
+   "end": 116.84,
+   "text": "And these are they which ye shall have in abomination among the fowls; they shall not be eaten, they are an abomination: the eagle, and the ossifrage, and the ospray,"
+  },
+  {
+   "verse": 14,
+   "start": 117.54,
+   "end": 120.82,
+   "text": "And the vulture, and the kite after his kind;"
+  },
+  {
+   "verse": 15,
+   "start": 121.52,
+   "end": 123.4,
+   "text": "Every raven after his kind;"
+  },
+  {
+   "verse": 16,
+   "start": 124.1,
+   "end": 128.61,
+   "text": "And the owl, and the night hawk, and the cuckow, and the hawk after his kind,"
+  },
+  {
+   "verse": 17,
+   "start": 129.31,
+   "end": 133.22,
+   "text": "And the little owl, and the cormorant, and the great owl,"
+  },
+  {
+   "verse": 18,
+   "start": 133.92,
+   "end": 137.47,
+   "text": "And the swan, and the pelican, and the gier eagle,"
+  },
+  {
+   "verse": 19,
+   "start": 138.17,
+   "end": 142.74,
+   "text": "And the stork, the heron after her kind, and the lapwing, and the bat."
+  },
+  {
+   "verse": 20,
+   "start": 143.44,
+   "end": 149.24,
+   "text": "All fowls that creep, going upon all four, shall be an abomination unto you."
+  },
+  {
+   "verse": 21,
+   "start": 149.94,
+   "end": 159.96,
+   "text": "Yet these may ye eat of every flying creeping thing that goeth upon all four, which have legs above their feet, to leap withal upon the earth;"
+  },
+  {
+   "verse": 22,
+   "start": 160.66,
+   "end": 171.53,
+   "text": "Even these of them ye may eat; the locust after his kind, and the bald locust after his kind, and the beetle after his kind, and the grasshopper after his kind."
+  },
+  {
+   "verse": 23,
+   "start": 172.23,
+   "end": 178.15,
+   "text": "But all other flying creeping things, which have four feet, shall be an abomination unto you."
+  },
+  {
+   "verse": 24,
+   "start": 178.85,
+   "end": 186.37,
+   "text": "And for these ye shall be unclean: whosoever toucheth the carcase of them shall be unclean until the even."
+  },
+  {
+   "verse": 25,
+   "start": 187.07,
+   "end": 193.79,
+   "text": "And whosoever beareth ought of the carcase of them shall wash his clothes, and be unclean until the even."
+  },
+  {
+   "verse": 26,
+   "start": 194.49,
+   "end": 205.81,
+   "text": "The carcases of every beast which divideth the hoof, and is not clovenfooted, nor cheweth the cud, are unclean unto you: every one that toucheth them shall be unclean."
+  },
+  {
+   "verse": 27,
+   "start": 206.51,
+   "end": 218.09,
+   "text": "And whatsoever goeth upon his paws, among all manner of beasts that go on all four, those are unclean unto you: whoso toucheth their carcase shall be unclean until the even."
+  },
+  {
+   "verse": 28,
+   "start": 218.79,
+   "end": 227.3,
+   "text": "And he that beareth the carcase of them shall wash his clothes, and be unclean until the even: they are unclean unto you."
+  },
+  {
+   "verse": 29,
+   "start": 228.0,
+   "end": 236.63,
+   "text": "These also shall be unclean unto you among the creeping things that creep upon the earth; the weasel, and the mouse, and the tortoise after his kind,"
+  },
+  {
+   "verse": 30,
+   "start": 237.33,
+   "end": 242.48,
+   "text": "And the ferret, and the chameleon, and the lizard, and the snail, and the mole."
+  },
+  {
+   "verse": 31,
+   "start": 243.18,
+   "end": 251.44,
+   "text": "These are unclean to you among all that creep: whosoever doth touch them, when they be dead, shall be unclean until the even."
+  },
+  {
+   "verse": 32,
+   "start": 252.14,
+   "end": 274.32,
+   "text": "And upon whatsoever any of them, when they are dead, doth fall, it shall be unclean; whether it be any vessel of wood, or raiment, or skin, or sack, whatsoever vessel it be, wherein any work is done, it must be put into water, and it shall be unclean until the even; so it shall be cleansed."
+  },
+  {
+   "verse": 33,
+   "start": 275.02,
+   "end": 284.32,
+   "text": "And every earthen vessel, whereinto any of them falleth, whatsoever is in it shall be unclean; and ye shall break it."
+  },
+  {
+   "verse": 34,
+   "start": 285.02,
+   "end": 294.85,
+   "text": "Of all meat which may be eaten, that on which such water cometh shall be unclean: and all drink that may be drunk in every such vessel shall be unclean."
+  },
+  {
+   "verse": 35,
+   "start": 295.55,
+   "end": 308.67,
+   "text": "And every thing whereupon any part of their carcase falleth shall be unclean; whether it be oven, or ranges for pots, they shall be broken down: for they are unclean, and shall be unclean unto you."
+  },
+  {
+   "verse": 36,
+   "start": 309.37,
+   "end": 317.69,
+   "text": "Nevertheless a fountain or pit, wherein there is plenty of water, shall be clean: but that which toucheth their carcase shall be unclean."
+  },
+  {
+   "verse": 37,
+   "start": 318.39,
+   "end": 325.22,
+   "text": "And if any part of their carcase fall upon any sowing seed which is to be sown, it shall be clean."
+  },
+  {
+   "verse": 38,
+   "start": 325.92,
+   "end": 333.32,
+   "text": "But if any water be put upon the seed, and any part of their carcase fall thereon, it shall be unclean unto you."
+  },
+  {
+   "verse": 39,
+   "start": 334.02,
+   "end": 341.66,
+   "text": "And if any beast, of which ye may eat, die; he that toucheth the carcase thereof shall be unclean until the even."
+  },
+  {
+   "verse": 40,
+   "start": 342.36,
+   "end": 354.65,
+   "text": "And he that eateth of the carcase of it shall wash his clothes, and be unclean until the even: he also that beareth the carcase of it shall wash his clothes, and be unclean until the even."
+  },
+  {
+   "verse": 41,
+   "start": 355.35,
+   "end": 361.98,
+   "text": "And every creeping thing that creepeth upon the earth shall be an abomination; it shall not be eaten."
+  },
+  {
+   "verse": 42,
+   "start": 362.68,
+   "end": 375.41,
+   "text": "Whatsoever goeth upon the belly, and whatsoever goeth upon all four, or whatsoever hath more feet among all creeping things that creep upon the earth, them ye shall not eat; for they are an abomination."
+  },
+  {
+   "verse": 43,
+   "start": 376.11,
+   "end": 386.72,
+   "text": "Ye shall not make yourselves abominable with any creeping thing that creepeth, neither shall ye make yourselves unclean with them, that ye should be defiled thereby."
+  },
+  {
+   "verse": 44,
+   "start": 387.42,
+   "end": 402.0,
+   "text": "For I am the LORD your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I am holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth."
+  },
+  {
+   "verse": 45,
+   "start": 402.7,
+   "end": 412.56,
+   "text": "For I am the LORD that bringeth you up out of the land of Egypt, to be your God: ye shall therefore be holy, for I am holy."
+  },
+  {
+   "verse": 46,
+   "start": 413.26,
+   "end": 423.12,
+   "text": "This is the law of the beasts, and of the fowl, and of every living creature that moveth in the waters, and of every creature that creepeth upon the earth:"
+  },
+  {
+   "verse": 47,
+   "start": 423.82,
+   "end": 430.83,
+   "text": "To make a difference between the unclean and the clean, and between the beast that may be eaten and the beast that may not be eaten."
+  }
+ ]
+}
