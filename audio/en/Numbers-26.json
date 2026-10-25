@@ -1,0 +1,402 @@
+{
+ "book": "Numbers",
+ "chapter": 26,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Numbers-26.mp3",
+ "duration": 587.86,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.93,
+   "text": "And it came to pass after the plague, that the LORD spake unto Moses and unto Eleazar the son of Aaron the priest, saying,"
+  },
+  {
+   "verse": 2,
+   "start": 9.63,
+   "end": 19.52,
+   "text": "Take the sum of all the congregation of the children of Israel, from twenty years old and upward, throughout their fathers' house, all that are able to go to war in Israel."
+  },
+  {
+   "verse": 3,
+   "start": 20.22,
+   "end": 26.3,
+   "text": "And Moses and Eleazar the priest spake with them in the plains of Moab by Jordan near Jericho, saying,"
+  },
+  {
+   "verse": 4,
+   "start": 27.0,
+   "end": 37.07,
+   "text": "Take the sum of the people, from twenty years old and upward; as the LORD commanded Moses and the children of Israel, which went forth out of the land of Egypt."
+  },
+  {
+   "verse": 5,
+   "start": 37.77,
+   "end": 48.49,
+   "text": "Reuben, the eldest son of Israel: the children of Reuben; Hanoch, of whom cometh the family of the Hanochites: of Pallu, the family of the Palluites:"
+  },
+  {
+   "verse": 6,
+   "start": 49.19,
+   "end": 55.32,
+   "text": "Of Hezron, the family of the Hezronites: of Carmi, the family of the Carmites."
+  },
+  {
+   "verse": 7,
+   "start": 56.02,
+   "end": 62.46,
+   "text": "These are the families of the Reubenites: and they that were numbered of them were forty and three thousand and seven hundred and thirty."
+  },
+  {
+   "verse": 8,
+   "start": 63.16,
+   "end": 65.51,
+   "text": "And the sons of Pallu; Eliab."
+  },
+  {
+   "verse": 9,
+   "start": 66.21,
+   "end": 82.71,
+   "text": "And the sons of Eliab; Nemuel, and Dathan, and Abiram. This is that Dathan and Abiram, which were famous in the congregation, who strove against Moses and against Aaron in the company of Korah, when they strove against the LORD:"
+  },
+  {
+   "verse": 10,
+   "start": 83.41,
+   "end": 94.03,
+   "text": "And the earth opened her mouth, and swallowed them up together with Korah, when that company died, what time the fire devoured two hundred and fifty men: and they became a sign."
+  },
+  {
+   "verse": 11,
+   "start": 94.73,
+   "end": 97.24,
+   "text": "Notwithstanding the children of Korah died not."
+  },
+  {
+   "verse": 12,
+   "start": 97.94,
+   "end": 110.08,
+   "text": "The sons of Simeon after their families: of Nemuel, the family of the Nemuelites: of Jamin, the family of the Jaminites: of Jachin, the family of the Jachinites:"
+  },
+  {
+   "verse": 13,
+   "start": 110.78,
+   "end": 116.78,
+   "text": "Of Zerah, the family of the Zarhites: of Shaul, the family of the Shaulites."
+  },
+  {
+   "verse": 14,
+   "start": 117.48,
+   "end": 122.27,
+   "text": "These are the families of the Simeonites, twenty and two thousand and two hundred."
+  },
+  {
+   "verse": 15,
+   "start": 122.97,
+   "end": 134.07,
+   "text": "The children of Gad after their families: of Zephon, the family of the Zephonites: of Haggi, the family of the Haggites: of Shuni, the family of the Shunites:"
+  },
+  {
+   "verse": 16,
+   "start": 134.77,
+   "end": 141.54,
+   "text": "Of Ozni, the family of the Oznites: of Eri, the family of the Erites:"
+  },
+  {
+   "verse": 17,
+   "start": 142.24,
+   "end": 147.5,
+   "text": "Of Arod, the family of the Arodites: of Areli, the family of the Arelites."
+  },
+  {
+   "verse": 18,
+   "start": 148.2,
+   "end": 155.45,
+   "text": "These are the families of the children of Gad according to those that were numbered of them, forty thousand and five hundred."
+  },
+  {
+   "verse": 19,
+   "start": 156.15,
+   "end": 161.88,
+   "text": "The sons of Judah were Er and Onan: and Er and Onan died in the land of Canaan."
+  },
+  {
+   "verse": 20,
+   "start": 162.58,
+   "end": 176.73,
+   "text": "And the sons of Judah after their families were; of Shelah, the family of the Shelanites: of Pharez, the family of the Pharzites: of Zerah, the family of the Zarhites."
+  },
+  {
+   "verse": 21,
+   "start": 177.43,
+   "end": 185.34,
+   "text": "And the sons of Pharez were; of Hezron, the family of the Hezronites: of Hamul, the family of the Hamulites."
+  },
+  {
+   "verse": 22,
+   "start": 186.04,
+   "end": 193.67,
+   "text": "These are the families of Judah according to those that were numbered of them, threescore and sixteen thousand and five hundred."
+  },
+  {
+   "verse": 23,
+   "start": 194.37,
+   "end": 202.65,
+   "text": "Of the sons of Issachar after their families: of Tola, the family of the Tolaites: of Pua, the family of the Punites:"
+  },
+  {
+   "verse": 24,
+   "start": 203.35,
+   "end": 209.74,
+   "text": "Of Jashub, the family of the Jashubites: of Shimron, the family of the Shimronites."
+  },
+  {
+   "verse": 25,
+   "start": 210.44,
+   "end": 217.74,
+   "text": "These are the families of Issachar according to those that were numbered of them, threescore and four thousand and three hundred."
+  },
+  {
+   "verse": 26,
+   "start": 218.44,
+   "end": 231.75,
+   "text": "Of the sons of Zebulun after their families: of Sered, the family of the Sardites: of Elon, the family of the Elonites: of Jahleel, the family of the Jahleelites."
+  },
+  {
+   "verse": 27,
+   "start": 232.45,
+   "end": 239.64,
+   "text": "These are the families of the Zebulunites according to those that were numbered of them, threescore thousand and five hundred."
+  },
+  {
+   "verse": 28,
+   "start": 240.34,
+   "end": 244.37,
+   "text": "The sons of Joseph after their families were Manasseh and Ephraim."
+  },
+  {
+   "verse": 29,
+   "start": 245.07,
+   "end": 255.79,
+   "text": "Of the sons of Manasseh: of Machir, the family of the Machirites: and Machir begat Gilead: of Gilead come the family of the Gileadites."
+  },
+  {
+   "verse": 30,
+   "start": 256.49,
+   "end": 264.49,
+   "text": "These are the sons of Gilead: of Jeezer, the family of the Jeezerites: of Helek, the family of the Helekites:"
+  },
+  {
+   "verse": 31,
+   "start": 265.19,
+   "end": 272.2,
+   "text": "And of Asriel, the family of the Asrielites: and of Shechem, the family of the Shechemites:"
+  },
+  {
+   "verse": 32,
+   "start": 272.9,
+   "end": 279.07,
+   "text": "And of Shemida, the family of the Shemidaites: and of Hepher, the family of the Hepherites."
+  },
+  {
+   "verse": 33,
+   "start": 279.77,
+   "end": 291.51,
+   "text": "And Zelophehad the son of Hepher had no sons, but daughters: and the names of the daughters of Zelophehad were Mahlah, and Noah, Hoglah, Milcah, and Tirzah."
+  },
+  {
+   "verse": 34,
+   "start": 292.21,
+   "end": 300.0,
+   "text": "These are the families of Manasseh, and those that were numbered of them, fifty and two thousand and seven hundred."
+  },
+  {
+   "verse": 35,
+   "start": 300.7,
+   "end": 314.54,
+   "text": "These are the sons of Ephraim after their families: of Shuthelah, the family of the Shuthalhites: of Becher, the family of the Bachrites: of Tahan, the family of the Tahanites."
+  },
+  {
+   "verse": 36,
+   "start": 315.24,
+   "end": 320.33,
+   "text": "And these are the sons of Shuthelah: of Eran, the family of the Eranites."
+  },
+  {
+   "verse": 37,
+   "start": 321.03,
+   "end": 332.1,
+   "text": "These are the families of the sons of Ephraim according to those that were numbered of them, thirty and two thousand and five hundred. These are the sons of Joseph after their families."
+  },
+  {
+   "verse": 38,
+   "start": 332.8,
+   "end": 344.41,
+   "text": "The sons of Benjamin after their families: of Bela, the family of the Belaites: of Ashbel, the family of the Ashbelites: of Ahiram, the family of the Ahiramites:"
+  },
+  {
+   "verse": 39,
+   "start": 345.11,
+   "end": 351.2,
+   "text": "Of Shupham, the family of the Shuphamites: of Hupham, the family of the Huphamites."
+  },
+  {
+   "verse": 40,
+   "start": 351.9,
+   "end": 360.58,
+   "text": "And the sons of Bela were Ard and Naaman: of Ard, the family of the Ardites: and of Naaman, the family of the Naamites."
+  },
+  {
+   "verse": 41,
+   "start": 361.28,
+   "end": 368.13,
+   "text": "These are the sons of Benjamin after their families: and they that were numbered of them were forty and five thousand and six hundred."
+  },
+  {
+   "verse": 42,
+   "start": 368.83,
+   "end": 377.94,
+   "text": "These are the sons of Dan after their families: of Shuham, the family of the Shuhamites. These are the families of Dan after their families."
+  },
+  {
+   "verse": 43,
+   "start": 378.64,
+   "end": 386.07,
+   "text": "All the families of the Shuhamites, according to those that were numbered of them, were threescore and four thousand and four hundred."
+  },
+  {
+   "verse": 44,
+   "start": 386.77,
+   "end": 399.43,
+   "text": "Of the children of Asher after their families: of Jimna, the family of the Jimnites: of Jesui, the family of the Jesuites: of Beriah, the family of the Beriites."
+  },
+  {
+   "verse": 45,
+   "start": 400.13,
+   "end": 409.04,
+   "text": "Of the sons of Beriah: of Heber, the family of the Heberites: of Malchiel, the family of the Malchielites."
+  },
+  {
+   "verse": 46,
+   "start": 409.74,
+   "end": 412.56,
+   "text": "And the name of the daughter of Asher was Sarah."
+  },
+  {
+   "verse": 47,
+   "start": 413.26,
+   "end": 420.65,
+   "text": "These are the families of the sons of Asher according to those that were numbered of them; who were fifty and three thousand and four hundred."
+  },
+  {
+   "verse": 48,
+   "start": 421.35,
+   "end": 430.94,
+   "text": "Of the sons of Naphtali after their families: of Jahzeel, the family of the Jahzeelites: of Guni, the family of the Gunites:"
+  },
+  {
+   "verse": 49,
+   "start": 431.64,
+   "end": 438.11,
+   "text": "Of Jezer, the family of the Jezerites: of Shillem, the family of the Shillemites."
+  },
+  {
+   "verse": 50,
+   "start": 438.81,
+   "end": 447.8,
+   "text": "These are the families of Naphtali according to their families: and they that were numbered of them were forty and five thousand and four hundred."
+  },
+  {
+   "verse": 51,
+   "start": 448.5,
+   "end": 454.69,
+   "text": "These were the numbered of the children of Israel, six hundred thousand and a thousand seven hundred and thirty."
+  },
+  {
+   "verse": 52,
+   "start": 455.39,
+   "end": 457.65,
+   "text": "And the LORD spake unto Moses, saying,"
+  },
+  {
+   "verse": 53,
+   "start": 458.35,
+   "end": 463.59,
+   "text": "Unto these the land shall be divided for an inheritance according to the number of names."
+  },
+  {
+   "verse": 54,
+   "start": 464.29,
+   "end": 474.98,
+   "text": "To many thou shalt give the more inheritance, and to few thou shalt give the less inheritance: to every one shall his inheritance be given according to those that were numbered of him."
+  },
+  {
+   "verse": 55,
+   "start": 475.68,
+   "end": 483.16,
+   "text": "Notwithstanding the land shall be divided by lot: according to the names of the tribes of their fathers they shall inherit."
+  },
+  {
+   "verse": 56,
+   "start": 483.86,
+   "end": 488.43,
+   "text": "According to the lot shall the possession thereof be divided between many and few."
+  },
+  {
+   "verse": 57,
+   "start": 489.13,
+   "end": 501.39,
+   "text": "And these are they that were numbered of the Levites after their families: of Gershon, the family of the Gershonites: of Kohath, the family of the Kohathites: of Merari, the family of the Merarites."
+  },
+  {
+   "verse": 58,
+   "start": 502.09,
+   "end": 516.43,
+   "text": "These are the families of the Levites: the family of the Libnites, the family of the Hebronites, the family of the Mahlites, the family of the Mushites, the family of the Korathites. And Kohath begat Amram."
+  },
+  {
+   "verse": 59,
+   "start": 517.13,
+   "end": 529.48,
+   "text": "And the name of Amram's wife was Jochebed, the daughter of Levi, whom her mother bare to Levi in Egypt: and she bare unto Amram Aaron and Moses, and Miriam their sister."
+  },
+  {
+   "verse": 60,
+   "start": 530.18,
+   "end": 535.35,
+   "text": "And unto Aaron was born Nadab, and Abihu, Eleazar, and Ithamar."
+  },
+  {
+   "verse": 61,
+   "start": 536.05,
+   "end": 540.71,
+   "text": "And Nadab and Abihu died, when they offered strange fire before the LORD."
+  },
+  {
+   "verse": 62,
+   "start": 541.41,
+   "end": 555.34,
+   "text": "And those that were numbered of them were twenty and three thousand, all males from a month old and upward: for they were not numbered among the children of Israel, because there was no inheritance given them among the children of Israel."
+  },
+  {
+   "verse": 63,
+   "start": 556.04,
+   "end": 565.73,
+   "text": "These are they that were numbered by Moses and Eleazar the priest, who numbered the children of Israel in the plains of Moab by Jordan near Jericho."
+  },
+  {
+   "verse": 64,
+   "start": 566.43,
+   "end": 575.11,
+   "text": "But among these there was not a man of them whom Moses and Aaron the priest numbered, when they numbered the children of Israel in the wilderness of Sinai."
+  },
+  {
+   "verse": 65,
+   "start": 575.81,
+   "end": 586.8,
+   "text": "For the LORD had said of them, They shall surely die in the wilderness. And there was not left a man of them, save Caleb the son of Jephunneh, and Joshua the son of Nun."
+  }
+ ]
+}
