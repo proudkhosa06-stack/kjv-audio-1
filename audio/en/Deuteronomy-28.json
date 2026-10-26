@@ -1,0 +1,420 @@
+{
+ "book": "Deuteronomy",
+ "chapter": 28,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Deuteronomy-28.mp3",
+ "duration": 733.58,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 16.18,
+   "text": "And it shall come to pass, if thou shalt hearken diligently unto the voice of the LORD thy God, to observe and to do all his commandments which I command thee this day, that the LORD thy God will set thee on high above all nations of the earth:"
+  },
+  {
+   "verse": 2,
+   "start": 16.88,
+   "end": 23.98,
+   "text": "And all these blessings shall come on thee, and overtake thee, if thou shalt hearken unto the voice of the LORD thy God."
+  },
+  {
+   "verse": 3,
+   "start": 24.68,
+   "end": 29.17,
+   "text": "Blessed shalt thou be in the city, and blessed shalt thou be in the field."
+  },
+  {
+   "verse": 4,
+   "start": 29.87,
+   "end": 40.0,
+   "text": "Blessed shall be the fruit of thy body, and the fruit of thy ground, and the fruit of thy cattle, the increase of thy kine, and the flocks of thy sheep."
+  },
+  {
+   "verse": 5,
+   "start": 40.7,
+   "end": 43.34,
+   "text": "Blessed shall be thy basket and thy store."
+  },
+  {
+   "verse": 6,
+   "start": 44.04,
+   "end": 50.62,
+   "text": "Blessed shalt thou be when thou comest in, and blessed shalt thou be when thou goest out."
+  },
+  {
+   "verse": 7,
+   "start": 51.32,
+   "end": 61.27,
+   "text": "The LORD shall cause thine enemies that rise up against thee to be smitten before thy face: they shall come out against thee one way, and flee before thee seven ways."
+  },
+  {
+   "verse": 8,
+   "start": 61.97,
+   "end": 73.12,
+   "text": "The LORD shall command the blessing upon thee in thy storehouses, and in all that thou settest thine hand unto; and he shall bless thee in the land which the LORD thy God giveth thee."
+  },
+  {
+   "verse": 9,
+   "start": 73.82,
+   "end": 84.41,
+   "text": "The LORD shall establish thee an holy people unto himself, as he hath sworn unto thee, if thou shalt keep the commandments of the LORD thy God, and walk in his ways."
+  },
+  {
+   "verse": 10,
+   "start": 85.11,
+   "end": 91.58,
+   "text": "And all people of the earth shall see that thou art called by the name of the LORD; and they shall be afraid of thee."
+  },
+  {
+   "verse": 11,
+   "start": 92.28,
+   "end": 104.58,
+   "text": "And the LORD shall make thee plenteous in goods, in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy ground, in the land which the LORD sware unto thy fathers to give thee."
+  },
+  {
+   "verse": 12,
+   "start": 105.28,
+   "end": 118.74,
+   "text": "The LORD shall open unto thee his good treasure, the heaven to give the rain unto thy land in his season, and to bless all the work of thine hand: and thou shalt lend unto many nations, and thou shalt not borrow."
+  },
+  {
+   "verse": 13,
+   "start": 119.44,
+   "end": 134.67,
+   "text": "And the LORD shall make thee the head, and not the tail; and thou shalt be above only, and thou shalt not be beneath; if that thou hearken unto the commandments of the LORD thy God, which I command thee this day, to observe and to do them:"
+  },
+  {
+   "verse": 14,
+   "start": 135.37,
+   "end": 144.26,
+   "text": "And thou shalt not go aside from any of the words which I command thee this day, to the right hand, or to the left, to go after other gods to serve them."
+  },
+  {
+   "verse": 15,
+   "start": 144.96,
+   "end": 159.08,
+   "text": "But it shall come to pass, if thou wilt not hearken unto the voice of the LORD thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee:"
+  },
+  {
+   "verse": 16,
+   "start": 159.78,
+   "end": 164.27,
+   "text": "Cursed shalt thou be in the city, and cursed shalt thou be in the field."
+  },
+  {
+   "verse": 17,
+   "start": 164.97,
+   "end": 168.06,
+   "text": "Cursed shall be thy basket and thy store."
+  },
+  {
+   "verse": 18,
+   "start": 168.76,
+   "end": 176.32,
+   "text": "Cursed shall be the fruit of thy body, and the fruit of thy land, the increase of thy kine, and the flocks of thy sheep."
+  },
+  {
+   "verse": 19,
+   "start": 177.02,
+   "end": 182.68,
+   "text": "Cursed shalt thou be when thou comest in, and cursed shalt thou be when thou goest out."
+  },
+  {
+   "verse": 20,
+   "start": 183.38,
+   "end": 199.92,
+   "text": "The LORD shall send upon thee cursing, vexation, and rebuke, in all that thou settest thine hand unto for to do, until thou be destroyed, and until thou perish quickly; because of the wickedness of thy doings, whereby thou hast forsaken me."
+  },
+  {
+   "verse": 21,
+   "start": 200.62,
+   "end": 208.52,
+   "text": "The LORD shall make the pestilence cleave unto thee, until he have consumed thee from off the land, whither thou goest to possess it."
+  },
+  {
+   "verse": 22,
+   "start": 209.22,
+   "end": 222.56,
+   "text": "The LORD shall smite thee with a consumption, and with a fever, and with an inflammation, and with an extreme burning, and with the sword, and with blasting, and with mildew; and they shall pursue thee until thou perish."
+  },
+  {
+   "verse": 23,
+   "start": 223.26,
+   "end": 229.29,
+   "text": "And thy heaven that is over thy head shall be brass, and the earth that is under thee shall be iron."
+  },
+  {
+   "verse": 24,
+   "start": 229.99,
+   "end": 237.82,
+   "text": "The LORD shall make the rain of thy land powder and dust: from heaven shall it come down upon thee, until thou be destroyed."
+  },
+  {
+   "verse": 25,
+   "start": 238.52,
+   "end": 250.09,
+   "text": "The LORD shall cause thee to be smitten before thine enemies: thou shalt go out one way against them, and flee seven ways before them: and shalt be removed into all the kingdoms of the earth."
+  },
+  {
+   "verse": 26,
+   "start": 250.79,
+   "end": 258.14,
+   "text": "And thy carcase shall be meat unto all fowls of the air, and unto the beasts of the earth, and no man shall fray them away."
+  },
+  {
+   "verse": 27,
+   "start": 258.84,
+   "end": 267.43,
+   "text": "The LORD will smite thee with the botch of Egypt, and with the emerods, and with the scab, and with the itch, whereof thou canst not be healed."
+  },
+  {
+   "verse": 28,
+   "start": 268.13,
+   "end": 272.8,
+   "text": "The LORD shall smite thee with madness, and blindness, and astonishment of heart:"
+  },
+  {
+   "verse": 29,
+   "start": 273.5,
+   "end": 287.92,
+   "text": "And thou shalt grope at noonday, as the blind gropeth in darkness, and thou shalt not prosper in thy ways: and thou shalt be only oppressed and spoiled evermore, and no man shall save thee."
+  },
+  {
+   "verse": 30,
+   "start": 288.62,
+   "end": 302.31,
+   "text": "Thou shalt betroth a wife, and another man shall lie with her: thou shalt build an house, and thou shalt not dwell therein: thou shalt plant a vineyard, and shalt not gather the grapes thereof."
+  },
+  {
+   "verse": 31,
+   "start": 303.01,
+   "end": 319.67,
+   "text": "Thine ox shall be slain before thine eyes, and thou shalt not eat thereof: thine ass shall be violently taken away from before thy face, and shall not be restored to thee: thy sheep shall be given unto thine enemies, and thou shalt have none to rescue them."
+  },
+  {
+   "verse": 32,
+   "start": 320.37,
+   "end": 331.51,
+   "text": "Thy sons and thy daughters shall be given unto another people, and thine eyes shall look, and fail with longing for them all the day long: and there shall be no might in thine hand."
+  },
+  {
+   "verse": 33,
+   "start": 332.21,
+   "end": 341.75,
+   "text": "The fruit of thy land, and all thy labours, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed alway:"
+  },
+  {
+   "verse": 34,
+   "start": 342.45,
+   "end": 346.76,
+   "text": "So that thou shalt be mad for the sight of thine eyes which thou shalt see."
+  },
+  {
+   "verse": 35,
+   "start": 347.46,
+   "end": 357.24,
+   "text": "The LORD shall smite thee in the knees, and in the legs, with a sore botch that cannot be healed, from the sole of thy foot unto the top of thy head."
+  },
+  {
+   "verse": 36,
+   "start": 357.94,
+   "end": 370.43,
+   "text": "The LORD shall bring thee, and thy king which thou shalt set over thee, unto a nation which neither thou nor thy fathers have known; and there shalt thou serve other gods, wood and stone."
+  },
+  {
+   "verse": 37,
+   "start": 371.13,
+   "end": 379.17,
+   "text": "And thou shalt become an astonishment, a proverb, and a byword, among all nations whither the LORD shall lead thee."
+  },
+  {
+   "verse": 38,
+   "start": 379.87,
+   "end": 386.89,
+   "text": "Thou shalt carry much seed out into the field, and shalt gather but little in; for the locust shall consume it."
+  },
+  {
+   "verse": 39,
+   "start": 387.59,
+   "end": 395.81,
+   "text": "Thou shalt plant vineyards, and dress them, but shalt neither drink of the wine, nor gather the grapes; for the worms shall eat them."
+  },
+  {
+   "verse": 40,
+   "start": 396.51,
+   "end": 406.42,
+   "text": "Thou shalt have olive trees throughout all thy coasts, but thou shalt not anoint thyself with the oil; for thine olive shall cast his fruit."
+  },
+  {
+   "verse": 41,
+   "start": 407.12,
+   "end": 413.63,
+   "text": "Thou shalt beget sons and daughters, but thou shalt not enjoy them; for they shall go into captivity."
+  },
+  {
+   "verse": 42,
+   "start": 414.33,
+   "end": 418.07,
+   "text": "All thy trees and fruit of thy land shall the locust consume."
+  },
+  {
+   "verse": 43,
+   "start": 418.77,
+   "end": 424.94,
+   "text": "The stranger that is within thee shall get up above thee very high; and thou shalt come down very low."
+  },
+  {
+   "verse": 44,
+   "start": 425.64,
+   "end": 432.07,
+   "text": "He shall lend to thee, and thou shalt not lend to him: he shall be the head, and thou shalt be the tail."
+  },
+  {
+   "verse": 45,
+   "start": 432.77,
+   "end": 447.27,
+   "text": "Moreover all these curses shall come upon thee, and shall pursue thee, and overtake thee, till thou be destroyed; because thou hearkenedst not unto the voice of the LORD thy God, to keep his commandments and his statutes which he commanded thee:"
+  },
+  {
+   "verse": 46,
+   "start": 447.97,
+   "end": 453.49,
+   "text": "And they shall be upon thee for a sign and for a wonder, and upon thy seed for ever."
+  },
+  {
+   "verse": 47,
+   "start": 454.19,
+   "end": 461.26,
+   "text": "Because thou servedst not the LORD thy God with joyfulness, and with gladness of heart, for the abundance of all things;"
+  },
+  {
+   "verse": 48,
+   "start": 461.96,
+   "end": 475.8,
+   "text": "Therefore shalt thou serve thine enemies which the LORD shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee."
+  },
+  {
+   "verse": 49,
+   "start": 476.5,
+   "end": 486.78,
+   "text": "The LORD shall bring a nation against thee from far, from the end of the earth, as swift as the eagle flieth; a nation whose tongue thou shalt not understand;"
+  },
+  {
+   "verse": 50,
+   "start": 487.48,
+   "end": 493.82,
+   "text": "A nation of fierce countenance, which shall not regard the person of the old, nor shew favour to the young:"
+  },
+  {
+   "verse": 51,
+   "start": 494.52,
+   "end": 511.14,
+   "text": "And he shall eat the fruit of thy cattle, and the fruit of thy land, until thou be destroyed: which also shall not leave thee either corn, wine, or oil, or the increase of thy kine, or flocks of thy sheep, until he have destroyed thee."
+  },
+  {
+   "verse": 52,
+   "start": 511.84,
+   "end": 526.87,
+   "text": "And he shall besiege thee in all thy gates, until thy high and fenced walls come down, wherein thou trustedst, throughout all thy land: and he shall besiege thee in all thy gates throughout all thy land, which the LORD thy God hath given thee."
+  },
+  {
+   "verse": 53,
+   "start": 527.57,
+   "end": 541.34,
+   "text": "And thou shalt eat the fruit of thine own body, the flesh of thy sons and of thy daughters, which the LORD thy God hath given thee, in the siege, and in the straitness, wherewith thine enemies shall distress thee:"
+  },
+  {
+   "verse": 54,
+   "start": 542.04,
+   "end": 554.18,
+   "text": "So that the man that is tender among you, and very delicate, his eye shall be evil toward his brother, and toward the wife of his bosom, and toward the remnant of his children which he shall leave:"
+  },
+  {
+   "verse": 55,
+   "start": 554.88,
+   "end": 567.94,
+   "text": "So that he will not give to any of them of the flesh of his children whom he shall eat: because he hath nothing left him in the siege, and in the straitness, wherewith thine enemies shall distress thee in all thy gates."
+  },
+  {
+   "verse": 56,
+   "start": 568.64,
+   "end": 583.34,
+   "text": "The tender and delicate woman among you, which would not adventure to set the sole of her foot upon the ground for delicateness and tenderness, her eye shall be evil toward the husband of her bosom, and toward her son, and toward her daughter,"
+  },
+  {
+   "verse": 57,
+   "start": 584.04,
+   "end": 598.22,
+   "text": "And toward her young one that cometh out from between her feet, and toward her children which she shall bear: for she shall eat them for want of all things secretly in the siege and straitness, wherewith thine enemy shall distress thee in thy gates."
+  },
+  {
+   "verse": 58,
+   "start": 598.92,
+   "end": 610.11,
+   "text": "If thou wilt not observe to do all the words of this law that are written in this book, that thou mayest fear this glorious and fearful name, THE LORD THY GOD;"
+  },
+  {
+   "verse": 59,
+   "start": 610.81,
+   "end": 623.02,
+   "text": "Then the LORD will make thy plagues wonderful, and the plagues of thy seed, even great plagues, and of long continuance, and sore sicknesses, and of long continuance."
+  },
+  {
+   "verse": 60,
+   "start": 623.72,
+   "end": 631.52,
+   "text": "Moreover he will bring upon thee all the diseases of Egypt, which thou wast afraid of; and they shall cleave unto thee."
+  },
+  {
+   "verse": 61,
+   "start": 632.22,
+   "end": 641.47,
+   "text": "Also every sickness, and every plague, which is not written in the book of this law, them will the LORD bring upon thee, until thou be destroyed."
+  },
+  {
+   "verse": 62,
+   "start": 642.17,
+   "end": 651.69,
+   "text": "And ye shall be left few in number, whereas ye were as the stars of heaven for multitude; because thou wouldest not obey the voice of the LORD thy God."
+  },
+  {
+   "verse": 63,
+   "start": 652.39,
+   "end": 668.53,
+   "text": "And it shall come to pass, that as the LORD rejoiced over you to do you good, and to multiply you; so the LORD will rejoice over you to destroy you, and to bring you to nought; and ye shall be plucked from off the land whither thou goest to possess it."
+  },
+  {
+   "verse": 64,
+   "start": 669.23,
+   "end": 682.54,
+   "text": "And the LORD shall scatter thee among all people, from the one end of the earth even unto the other; and there thou shalt serve other gods, which neither thou nor thy fathers have known, even wood and stone."
+  },
+  {
+   "verse": 65,
+   "start": 683.24,
+   "end": 694.52,
+   "text": "And among these nations shalt thou find no ease, neither shall the sole of thy foot have rest: but the LORD shall give thee there a trembling heart, and failing of eyes, and sorrow of mind:"
+  },
+  {
+   "verse": 66,
+   "start": 695.22,
+   "end": 702.12,
+   "text": "And thy life shall hang in doubt before thee; and thou shalt fear day and night, and shalt have none assurance of thy life:"
+  },
+  {
+   "verse": 67,
+   "start": 702.82,
+   "end": 717.26,
+   "text": "In the morning thou shalt say, Would God it were even! and at even thou shalt say, Would God it were morning! for the fear of thine heart wherewith thou shalt fear, and for the sight of thine eyes which thou shalt see."
+  },
+  {
+   "verse": 68,
+   "start": 717.96,
+   "end": 732.52,
+   "text": "And the LORD shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you."
+  }
+ ]
+}

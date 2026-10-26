@@ -1,0 +1,186 @@
+{
+ "book": "Deuteronomy",
+ "chapter": 14,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Deuteronomy-14.mp3",
+ "duration": 258.38,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 7.77,
+   "text": "Ye are the children of the LORD your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead."
+  },
+  {
+   "verse": 2,
+   "start": 8.47,
+   "end": 18.68,
+   "text": "For thou art an holy people unto the LORD thy God, and the LORD hath chosen thee to be a peculiar people unto himself, above all the nations that are upon the earth."
+  },
+  {
+   "verse": 3,
+   "start": 19.38,
+   "end": 21.85,
+   "text": "Thou shalt not eat any abominable thing."
+  },
+  {
+   "verse": 4,
+   "start": 22.55,
+   "end": 26.74,
+   "text": "These are the beasts which ye shall eat: the ox, the sheep, and the goat,"
+  },
+  {
+   "verse": 5,
+   "start": 27.44,
+   "end": 36.36,
+   "text": "The hart, and the roebuck, and the fallow deer, and the wild goat, and the pygarg, and the wild ox, and the chamois."
+  },
+  {
+   "verse": 6,
+   "start": 37.06,
+   "end": 45.8,
+   "text": "And every beast that parteth the hoof, and cleaveth the cleft into two claws, and cheweth the cud among the beasts, that ye shall eat."
+  },
+  {
+   "verse": 7,
+   "start": 46.5,
+   "end": 62.22,
+   "text": "Nevertheless these ye shall not eat of them that chew the cud, or of them that divide the cloven hoof; as the camel, and the hare, and the coney: for they chew the cud, but divide not the hoof; therefore they are unclean unto you."
+  },
+  {
+   "verse": 8,
+   "start": 62.92,
+   "end": 73.66,
+   "text": "And the swine, because it divideth the hoof, yet cheweth not the cud, it is unclean unto you: ye shall not eat of their flesh, nor touch their dead carcase."
+  },
+  {
+   "verse": 9,
+   "start": 74.36,
+   "end": 80.39,
+   "text": "These ye shall eat of all that are in the waters: all that have fins and scales shall ye eat:"
+  },
+  {
+   "verse": 10,
+   "start": 81.09,
+   "end": 87.23,
+   "text": "And whatsoever hath not fins and scales ye may not eat; it is unclean unto you."
+  },
+  {
+   "verse": 11,
+   "start": 87.93,
+   "end": 89.99,
+   "text": "Of all clean birds ye shall eat."
+  },
+  {
+   "verse": 12,
+   "start": 90.69,
+   "end": 97.23,
+   "text": "But these are they of which ye shall not eat: the eagle, and the ossifrage, and the ospray,"
+  },
+  {
+   "verse": 13,
+   "start": 97.93,
+   "end": 102.03,
+   "text": "And the glede, and the kite, and the vulture after his kind,"
+  },
+  {
+   "verse": 14,
+   "start": 102.73,
+   "end": 104.66,
+   "text": "And every raven after his kind,"
+  },
+  {
+   "verse": 15,
+   "start": 105.36,
+   "end": 109.5,
+   "text": "And the owl, and the night hawk, and the cuckow, and the hawk after his kind,"
+  },
+  {
+   "verse": 16,
+   "start": 110.2,
+   "end": 113.88,
+   "text": "The little owl, and the great owl, and the swan,"
+  },
+  {
+   "verse": 17,
+   "start": 114.58,
+   "end": 118.06,
+   "text": "And the pelican, and the gier eagle, and the cormorant,"
+  },
+  {
+   "verse": 18,
+   "start": 118.76,
+   "end": 123.99,
+   "text": "And the stork, and the heron after her kind, and the lapwing, and the bat."
+  },
+  {
+   "verse": 19,
+   "start": 124.69,
+   "end": 130.64,
+   "text": "And every creeping thing that flieth is unclean unto you: they shall not be eaten."
+  },
+  {
+   "verse": 20,
+   "start": 131.34,
+   "end": 133.63,
+   "text": "But of all clean fowls ye may eat."
+  },
+  {
+   "verse": 21,
+   "start": 134.33,
+   "end": 152.12,
+   "text": "Ye shall not eat of any thing that dieth of itself: thou shalt give it unto the stranger that is in thy gates, that he may eat it; or thou mayest sell it unto an alien: for thou art an holy people unto the LORD thy God. Thou shalt not seethe a kid in his mother's milk."
+  },
+  {
+   "verse": 22,
+   "start": 152.82,
+   "end": 158.94,
+   "text": "Thou shalt truly tithe all the increase of thy seed, that the field bringeth forth year by year."
+  },
+  {
+   "verse": 23,
+   "start": 159.64,
+   "end": 176.87,
+   "text": "And thou shalt eat before the LORD thy God, in the place which he shall choose to place his name there, the tithe of thy corn, of thy wine, and of thine oil, and the firstlings of thy herds and of thy flocks; that thou mayest learn to fear the LORD thy God always."
+  },
+  {
+   "verse": 24,
+   "start": 177.57,
+   "end": 192.12,
+   "text": "And if the way be too long for thee, so that thou art not able to carry it; or if the place be too far from thee, which the LORD thy God shall choose to set his name there, when the LORD thy God hath blessed thee:"
+  },
+  {
+   "verse": 25,
+   "start": 192.82,
+   "end": 201.89,
+   "text": "Then shalt thou turn it into money, and bind up the money in thine hand, and shalt go unto the place which the LORD thy God shall choose:"
+  },
+  {
+   "verse": 26,
+   "start": 202.59,
+   "end": 220.74,
+   "text": "And thou shalt bestow that money for whatsoever thy soul lusteth after, for oxen, or for sheep, or for wine, or for strong drink, or for whatsoever thy soul desireth: and thou shalt eat there before the LORD thy God, and thou shalt rejoice, thou, and thine household,"
+  },
+  {
+   "verse": 27,
+   "start": 221.44,
+   "end": 228.75,
+   "text": "And the Levite that is within thy gates; thou shalt not forsake him; for he hath no part nor inheritance with thee."
+  },
+  {
+   "verse": 28,
+   "start": 229.45,
+   "end": 237.92,
+   "text": "At the end of three years thou shalt bring forth all the tithe of thine increase the same year, and shalt lay it up within thy gates:"
+  },
+  {
+   "verse": 29,
+   "start": 238.62,
+   "end": 257.33,
+   "text": "And the Levite, (because he hath no part nor inheritance with thee,) and the stranger, and the fatherless, and the widow, which are within thy gates, shall come, and shall eat and be satisfied; that the LORD thy God may bless thee in all the work of thine hand which thou doest."
+  }
+ ]
+}
