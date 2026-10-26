@@ -1,0 +1,282 @@
+{
+ "book": "Joshua",
+ "chapter": 21,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Joshua-21.mp3",
+ "duration": 393.41,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 11.1,
+   "text": "Then came near the heads of the fathers of the Levites unto Eleazar the priest, and unto Joshua the son of Nun, and unto the heads of the fathers of the tribes of the children of Israel;"
+  },
+  {
+   "verse": 2,
+   "start": 11.8,
+   "end": 23.22,
+   "text": "And they spake unto them at Shiloh in the land of Canaan, saying, The LORD commanded by the hand of Moses to give us cities to dwell in, with the suburbs thereof for our cattle."
+  },
+  {
+   "verse": 3,
+   "start": 23.92,
+   "end": 31.55,
+   "text": "And the children of Israel gave unto the Levites out of their inheritance, at the commandment of the LORD, these cities and their suburbs."
+  },
+  {
+   "verse": 4,
+   "start": 32.25,
+   "end": 48.83,
+   "text": "And the lot came out for the families of the Kohathites: and the children of Aaron the priest, which were of the Levites, had by lot out of the tribe of Judah, and out of the tribe of Simeon, and out of the tribe of Benjamin, thirteen cities."
+  },
+  {
+   "verse": 5,
+   "start": 49.53,
+   "end": 60.6,
+   "text": "And the rest of the children of Kohath had by lot out of the families of the tribe of Ephraim, and out of the tribe of Dan, and out of the half tribe of Manasseh, ten cities."
+  },
+  {
+   "verse": 6,
+   "start": 61.3,
+   "end": 76.0,
+   "text": "And the children of Gershon had by lot out of the families of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the half tribe of Manasseh in Bashan, thirteen cities."
+  },
+  {
+   "verse": 7,
+   "start": 76.7,
+   "end": 85.88,
+   "text": "The children of Merari by their families had out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities."
+  },
+  {
+   "verse": 8,
+   "start": 86.58,
+   "end": 94.9,
+   "text": "And the children of Israel gave by lot unto the Levites these cities with their suburbs, as the LORD commanded by the hand of Moses."
+  },
+  {
+   "verse": 9,
+   "start": 95.6,
+   "end": 104.85,
+   "text": "And they gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are here mentioned by name,"
+  },
+  {
+   "verse": 10,
+   "start": 105.55,
+   "end": 114.13,
+   "text": "Which the children of Aaron, being of the families of the Kohathites, who were of the children of Levi, had: for theirs was the first lot."
+  },
+  {
+   "verse": 11,
+   "start": 114.83,
+   "end": 125.16,
+   "text": "And they gave them the city of Arba the father of Anak, which city is Hebron, in the hill country of Judah, with the suburbs thereof round about it."
+  },
+  {
+   "verse": 12,
+   "start": 125.86,
+   "end": 133.04,
+   "text": "But the fields of the city, and the villages thereof, gave they to Caleb the son of Jephunneh for his possession."
+  },
+  {
+   "verse": 13,
+   "start": 133.74,
+   "end": 142.93,
+   "text": "Thus they gave to the children of Aaron the priest Hebron with her suburbs, to be a city of refuge for the slayer; and Libnah with her suburbs,"
+  },
+  {
+   "verse": 14,
+   "start": 143.63,
+   "end": 147.58,
+   "text": "And Jattir with her suburbs, and Eshtemoa with her suburbs,"
+  },
+  {
+   "verse": 15,
+   "start": 148.28,
+   "end": 152.27,
+   "text": "And Holon with her suburbs, and Debir with her suburbs,"
+  },
+  {
+   "verse": 16,
+   "start": 152.97,
+   "end": 163.0,
+   "text": "And Ain with her suburbs, and Juttah with her suburbs, and Beth-shemesh with her suburbs; nine cities out of those two tribes."
+  },
+  {
+   "verse": 17,
+   "start": 163.7,
+   "end": 169.43,
+   "text": "And out of the tribe of Benjamin, Gibeon with her suburbs, Geba with her suburbs,"
+  },
+  {
+   "verse": 18,
+   "start": 170.13,
+   "end": 175.17,
+   "text": "Anathoth with her suburbs, and Almon with her suburbs; four cities."
+  },
+  {
+   "verse": 19,
+   "start": 175.87,
+   "end": 181.04,
+   "text": "All the cities of the children of Aaron, the priests, were thirteen cities with their suburbs."
+  },
+  {
+   "verse": 20,
+   "start": 181.74,
+   "end": 191.45,
+   "text": "And the families of the children of Kohath, the Levites which remained of the children of Kohath, even they had the cities of their lot out of the tribe of Ephraim."
+  },
+  {
+   "verse": 21,
+   "start": 192.15,
+   "end": 200.32,
+   "text": "For they gave them Shechem with her suburbs in mount Ephraim, to be a city of refuge for the slayer; and Gezer with her suburbs,"
+  },
+  {
+   "verse": 22,
+   "start": 201.02,
+   "end": 206.78,
+   "text": "And Kibzaim with her suburbs, and Beth-horon with her suburbs; four cities."
+  },
+  {
+   "verse": 23,
+   "start": 207.48,
+   "end": 213.1,
+   "text": "And out of the tribe of Dan, Eltekeh with her suburbs, Gibbethon with her suburbs,"
+  },
+  {
+   "verse": 24,
+   "start": 213.8,
+   "end": 218.75,
+   "text": "Aijalon with her suburbs, Gath-rimmon with her suburbs; four cities."
+  },
+  {
+   "verse": 25,
+   "start": 219.45,
+   "end": 227.06,
+   "text": "And out of the half tribe of Manasseh, Tanach with her suburbs, and Gath-rimmon with her suburbs; two cities."
+  },
+  {
+   "verse": 26,
+   "start": 227.76,
+   "end": 233.08,
+   "text": "All the cities were ten with their suburbs for the families of the children of Kohath that remained."
+  },
+  {
+   "verse": 27,
+   "start": 233.78,
+   "end": 249.97,
+   "text": "And unto the children of Gershon, of the families of the Levites, out of the other half tribe of Manasseh they gave Golan in Bashan with her suburbs, to be a city of refuge for the slayer; and Beesh-terah with her suburbs; two cities."
+  },
+  {
+   "verse": 28,
+   "start": 250.67,
+   "end": 256.37,
+   "text": "And out of the tribe of Issachar, Kishon with her suburbs, Dabareh with her suburbs,"
+  },
+  {
+   "verse": 29,
+   "start": 257.07,
+   "end": 261.64,
+   "text": "Jarmuth with her suburbs, En-gannim with her suburbs; four cities."
+  },
+  {
+   "verse": 30,
+   "start": 262.34,
+   "end": 267.55,
+   "text": "And out of the tribe of Asher, Mishal with her suburbs, Abdon with her suburbs,"
+  },
+  {
+   "verse": 31,
+   "start": 268.25,
+   "end": 273.39,
+   "text": "Helkath with her suburbs, and Rehob with her suburbs; four cities."
+  },
+  {
+   "verse": 32,
+   "start": 274.09,
+   "end": 288.46,
+   "text": "And out of the tribe of Naphtali, Kedesh in Galilee with her suburbs, to be a city of refuge for the slayer; and Hammoth-dor with her suburbs, and Kartan with her suburbs; three cities."
+  },
+  {
+   "verse": 33,
+   "start": 289.16,
+   "end": 294.22,
+   "text": "All the cities of the Gershonites according to their families were thirteen cities with their suburbs."
+  },
+  {
+   "verse": 34,
+   "start": 294.92,
+   "end": 305.44,
+   "text": "And unto the families of the children of Merari, the rest of the Levites, out of the tribe of Zebulun, Jokneam with her suburbs, and Kartah with her suburbs,"
+  },
+  {
+   "verse": 35,
+   "start": 306.14,
+   "end": 310.57,
+   "text": "Dimnah with her suburbs, Nahalal with her suburbs; four cities."
+  },
+  {
+   "verse": 36,
+   "start": 311.27,
+   "end": 316.84,
+   "text": "And out of the tribe of Reuben, Bezer with her suburbs, and Jahazah with her suburbs,"
+  },
+  {
+   "verse": 37,
+   "start": 317.54,
+   "end": 322.47,
+   "text": "Kedemoth with her suburbs, and Mephaath with her suburbs; four cities."
+  },
+  {
+   "verse": 38,
+   "start": 323.17,
+   "end": 332.88,
+   "text": "And out of the tribe of Gad, Ramoth in Gilead with her suburbs, to be a city of refuge for the slayer; and Mahanaim with her suburbs,"
+  },
+  {
+   "verse": 39,
+   "start": 333.58,
+   "end": 338.34,
+   "text": "Heshbon with her suburbs, Jazer with her suburbs; four cities in all."
+  },
+  {
+   "verse": 40,
+   "start": 339.04,
+   "end": 347.33,
+   "text": "So all the cities for the children of Merari by their families, which were remaining of the families of the Levites, were by their lot twelve cities."
+  },
+  {
+   "verse": 41,
+   "start": 348.03,
+   "end": 355.05,
+   "text": "All the cities of the Levites within the possession of the children of Israel were forty and eight cities with their suburbs."
+  },
+  {
+   "verse": 42,
+   "start": 355.75,
+   "end": 361.27,
+   "text": "These cities were every one with their suburbs round about them: thus were all these cities."
+  },
+  {
+   "verse": 43,
+   "start": 361.97,
+   "end": 370.58,
+   "text": "And the LORD gave unto Israel all the land which he sware to give unto their fathers; and they possessed it, and dwelt therein."
+  },
+  {
+   "verse": 44,
+   "start": 371.28,
+   "end": 384.88,
+   "text": "And the LORD gave them rest round about, according to all that he sware unto their fathers: and there stood not a man of all their enemies before them; the LORD delivered all their enemies into their hand."
+  },
+  {
+   "verse": 45,
+   "start": 385.58,
+   "end": 392.36,
+   "text": "There failed not ought of any good thing which the LORD had spoken unto the house of Israel; all came to pass."
+  }
+ ]
+}
