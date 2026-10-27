@@ -1,0 +1,318 @@
+{
+ "book": "2 Samuel",
+ "chapter": 22,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "2 Samuel-22.mp3",
+ "duration": 354.77,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 9.97,
+   "text": "And David spake unto the LORD the words of this song in the day that the LORD had delivered him out of the hand of all his enemies, and out of the hand of Saul:"
+  },
+  {
+   "verse": 2,
+   "start": 10.67,
+   "end": 15.16,
+   "text": "And he said, The LORD is my rock, and my fortress, and my deliverer;"
+  },
+  {
+   "verse": 3,
+   "start": 15.86,
+   "end": 30.37,
+   "text": "The God of my rock; in him will I trust: he is my shield, and the horn of my salvation, my high tower, and my refuge, my saviour; thou savest me from violence."
+  },
+  {
+   "verse": 4,
+   "start": 31.07,
+   "end": 36.64,
+   "text": "I will call on the LORD, who is worthy to be praised: so shall I be saved from mine enemies."
+  },
+  {
+   "verse": 5,
+   "start": 37.34,
+   "end": 42.75,
+   "text": "When the waves of death compassed me, the floods of ungodly men made me afraid;"
+  },
+  {
+   "verse": 6,
+   "start": 43.45,
+   "end": 48.04,
+   "text": "The sorrows of hell compassed me about; the snares of death prevented me;"
+  },
+  {
+   "verse": 7,
+   "start": 48.74,
+   "end": 58.54,
+   "text": "In my distress I called upon the LORD, and cried to my God: and he did hear my voice out of his temple, and my cry did enter into his ears."
+  },
+  {
+   "verse": 8,
+   "start": 59.24,
+   "end": 65.76,
+   "text": "Then the earth shook and trembled; the foundations of heaven moved and shook, because he was wroth."
+  },
+  {
+   "verse": 9,
+   "start": 66.46,
+   "end": 73.42,
+   "text": "There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it."
+  },
+  {
+   "verse": 10,
+   "start": 74.12,
+   "end": 78.47,
+   "text": "He bowed the heavens also, and came down; and darkness was under his feet."
+  },
+  {
+   "verse": 11,
+   "start": 79.17,
+   "end": 84.79,
+   "text": "And he rode upon a cherub, and did fly: and he was seen upon the wings of the wind."
+  },
+  {
+   "verse": 12,
+   "start": 85.49,
+   "end": 91.96,
+   "text": "And he made darkness pavilions round about him, dark waters, and thick clouds of the skies."
+  },
+  {
+   "verse": 13,
+   "start": 92.66,
+   "end": 95.82,
+   "text": "Through the brightness before him were coals of fire kindled."
+  },
+  {
+   "verse": 14,
+   "start": 96.52,
+   "end": 100.2,
+   "text": "The LORD thundered from heaven, and the most High uttered his voice."
+  },
+  {
+   "verse": 15,
+   "start": 100.9,
+   "end": 105.45,
+   "text": "And he sent out arrows, and scattered them; lightning, and discomfited them."
+  },
+  {
+   "verse": 16,
+   "start": 106.15,
+   "end": 115.88,
+   "text": "And the channels of the sea appeared, the foundations of the world were discovered, at the rebuking of the LORD, at the blast of the breath of his nostrils."
+  },
+  {
+   "verse": 17,
+   "start": 116.58,
+   "end": 120.77,
+   "text": "He sent from above, he took me; he drew me out of many waters;"
+  },
+  {
+   "verse": 18,
+   "start": 121.47,
+   "end": 127.97,
+   "text": "He delivered me from my strong enemy, and from them that hated me: for they were too strong for me."
+  },
+  {
+   "verse": 19,
+   "start": 128.67,
+   "end": 132.9,
+   "text": "They prevented me in the day of my calamity: but the LORD was my stay."
+  },
+  {
+   "verse": 20,
+   "start": 133.6,
+   "end": 139.25,
+   "text": "He brought me forth also into a large place: he delivered me, because he delighted in me."
+  },
+  {
+   "verse": 21,
+   "start": 139.95,
+   "end": 147.02,
+   "text": "The LORD rewarded me according to my righteousness: according to the cleanness of my hands hath he recompensed me."
+  },
+  {
+   "verse": 22,
+   "start": 147.72,
+   "end": 152.25,
+   "text": "For I have kept the ways of the LORD, and have not wickedly departed from my God."
+  },
+  {
+   "verse": 23,
+   "start": 152.95,
+   "end": 158.48,
+   "text": "For all his judgments were before me: and as for his statutes, I did not depart from them."
+  },
+  {
+   "verse": 24,
+   "start": 159.18,
+   "end": 163.88,
+   "text": "I was also upright before him, and have kept myself from mine iniquity."
+  },
+  {
+   "verse": 25,
+   "start": 164.58,
+   "end": 171.39,
+   "text": "Therefore the LORD hath recompensed me according to my righteousness; according to my cleanness in his eye sight."
+  },
+  {
+   "verse": 26,
+   "start": 172.09,
+   "end": 180.56,
+   "text": "With the merciful thou wilt shew thyself merciful, and with the upright man thou wilt shew thyself upright."
+  },
+  {
+   "verse": 27,
+   "start": 181.26,
+   "end": 187.66,
+   "text": "With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself unsavoury."
+  },
+  {
+   "verse": 28,
+   "start": 188.36,
+   "end": 195.58,
+   "text": "And the afflicted people thou wilt save: but thine eyes are upon the haughty, that thou mayest bring them down."
+  },
+  {
+   "verse": 29,
+   "start": 196.28,
+   "end": 200.92,
+   "text": "For thou art my lamp, O LORD: and the LORD will lighten my darkness."
+  },
+  {
+   "verse": 30,
+   "start": 201.62,
+   "end": 206.25,
+   "text": "For by thee I have run through a troop: by my God have I leaped over a wall."
+  },
+  {
+   "verse": 31,
+   "start": 206.95,
+   "end": 214.89,
+   "text": "As for God, his way is perfect; the word of the LORD is tried: he is a buckler to all them that trust in him."
+  },
+  {
+   "verse": 32,
+   "start": 215.59,
+   "end": 220.0,
+   "text": "For who is God, save the LORD? and who is a rock, save our God?"
+  },
+  {
+   "verse": 33,
+   "start": 220.7,
+   "end": 224.66,
+   "text": "God is my strength and power: and he maketh my way perfect."
+  },
+  {
+   "verse": 34,
+   "start": 225.36,
+   "end": 230.61,
+   "text": "He maketh my feet like hinds' feet: and setteth me upon my high places."
+  },
+  {
+   "verse": 35,
+   "start": 231.31,
+   "end": 236.31,
+   "text": "He teacheth my hands to war; so that a bow of steel is broken by mine arms."
+  },
+  {
+   "verse": 36,
+   "start": 237.01,
+   "end": 242.46,
+   "text": "Thou hast also given me the shield of thy salvation: and thy gentleness hath made me great."
+  },
+  {
+   "verse": 37,
+   "start": 243.16,
+   "end": 247.66,
+   "text": "Thou hast enlarged my steps under me; so that my feet did not slip."
+  },
+  {
+   "verse": 38,
+   "start": 248.36,
+   "end": 254.16,
+   "text": "I have pursued mine enemies, and destroyed them; and turned not again until I had consumed them."
+  },
+  {
+   "verse": 39,
+   "start": 254.86,
+   "end": 262.12,
+   "text": "And I have consumed them, and wounded them, that they could not arise: yea, they are fallen under my feet."
+  },
+  {
+   "verse": 40,
+   "start": 262.82,
+   "end": 269.12,
+   "text": "For thou hast girded me with strength to battle: them that rose up against me hast thou subdued under me."
+  },
+  {
+   "verse": 41,
+   "start": 269.82,
+   "end": 275.44,
+   "text": "Thou hast also given me the necks of mine enemies, that I might destroy them that hate me."
+  },
+  {
+   "verse": 42,
+   "start": 276.14,
+   "end": 281.81,
+   "text": "They looked, but there was none to save; even unto the LORD, but he answered them not."
+  },
+  {
+   "verse": 43,
+   "start": 282.51,
+   "end": 290.68,
+   "text": "Then did I beat them as small as the dust of the earth, I did stamp them as the mire of the street, and did spread them abroad."
+  },
+  {
+   "verse": 44,
+   "start": 291.38,
+   "end": 300.08,
+   "text": "Thou also hast delivered me from the strivings of my people, thou hast kept me to be head of the heathen: a people which I knew not shall serve me."
+  },
+  {
+   "verse": 45,
+   "start": 300.78,
+   "end": 307.19,
+   "text": "Strangers shall submit themselves unto me: as soon as they hear, they shall be obedient unto me."
+  },
+  {
+   "verse": 46,
+   "start": 307.89,
+   "end": 312.45,
+   "text": "Strangers shall fade away, and they shall be afraid out of their close places."
+  },
+  {
+   "verse": 47,
+   "start": 313.15,
+   "end": 320.88,
+   "text": "The LORD liveth; and blessed be my rock; and exalted be the God of the rock of my salvation."
+  },
+  {
+   "verse": 48,
+   "start": 321.58,
+   "end": 325.7,
+   "text": "It is God that avengeth me, and that bringeth down the people under me,"
+  },
+  {
+   "verse": 49,
+   "start": 326.4,
+   "end": 336.62,
+   "text": "And that bringeth me forth from mine enemies: thou also hast lifted me up on high above them that rose up against me: thou hast delivered me from the violent man."
+  },
+  {
+   "verse": 50,
+   "start": 337.32,
+   "end": 344.32,
+   "text": "Therefore I will give thanks unto thee, O LORD, among the heathen, and I will sing praises unto thy name."
+  },
+  {
+   "verse": 51,
+   "start": 345.02,
+   "end": 353.71,
+   "text": "He is the tower of salvation for his king: and sheweth mercy to his anointed, unto David, and to his seed for evermore."
+  }
+ ]
+}
