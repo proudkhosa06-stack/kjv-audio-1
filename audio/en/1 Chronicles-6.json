@@ -1,0 +1,498 @@
+{
+ "book": "1 Chronicles",
+ "chapter": 6,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "1 Chronicles-6.mp3",
+ "duration": 582.29,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 4.97,
+   "text": "The sons of Levi; Gershon, Kohath, and Merari."
+  },
+  {
+   "verse": 2,
+   "start": 5.67,
+   "end": 10.97,
+   "text": "And the sons of Kohath; Amram, Izhar, and Hebron, and Uzziel."
+  },
+  {
+   "verse": 3,
+   "start": 11.67,
+   "end": 22.02,
+   "text": "And the children of Amram; Aaron, and Moses, and Miriam. The sons also of Aaron; Nadab, and Abihu, Eleazar, and Ithamar."
+  },
+  {
+   "verse": 4,
+   "start": 22.72,
+   "end": 27.35,
+   "text": "Eleazar begat Phinehas, Phinehas begat Abishua,"
+  },
+  {
+   "verse": 5,
+   "start": 28.05,
+   "end": 31.94,
+   "text": "And Abishua begat Bukki, and Bukki begat Uzzi,"
+  },
+  {
+   "verse": 6,
+   "start": 32.64,
+   "end": 36.8,
+   "text": "And Uzzi begat Zerahiah, and Zerahiah begat Meraioth,"
+  },
+  {
+   "verse": 7,
+   "start": 37.5,
+   "end": 41.81,
+   "text": "Meraioth begat Amariah, and Amariah begat Ahitub,"
+  },
+  {
+   "verse": 8,
+   "start": 42.51,
+   "end": 47.0,
+   "text": "And Ahitub begat Zadok, and Zadok begat Ahimaaz,"
+  },
+  {
+   "verse": 9,
+   "start": 47.7,
+   "end": 52.01,
+   "text": "And Ahimaaz begat Azariah, and Azariah begat Johanan,"
+  },
+  {
+   "verse": 10,
+   "start": 52.71,
+   "end": 61.22,
+   "text": "And Johanan begat Azariah, (he it is that executed the priest's office in the temple that Solomon built in Jerusalem:)"
+  },
+  {
+   "verse": 11,
+   "start": 61.92,
+   "end": 66.39,
+   "text": "And Azariah begat Amariah, and Amariah begat Ahitub,"
+  },
+  {
+   "verse": 12,
+   "start": 67.09,
+   "end": 71.57,
+   "text": "And Ahitub begat Zadok, and Zadok begat Shallum,"
+  },
+  {
+   "verse": 13,
+   "start": 72.27,
+   "end": 77.43,
+   "text": "And Shallum begat Hilkiah, and Hilkiah begat Azariah,"
+  },
+  {
+   "verse": 14,
+   "start": 78.13,
+   "end": 83.04,
+   "text": "And Azariah begat Seraiah, and Seraiah begat Jehozadak,"
+  },
+  {
+   "verse": 15,
+   "start": 83.74,
+   "end": 91.06,
+   "text": "And Jehozadak went into captivity, when the LORD carried away Judah and Jerusalem by the hand of Nebuchadnezzar."
+  },
+  {
+   "verse": 16,
+   "start": 91.76,
+   "end": 96.07,
+   "text": "The sons of Levi; Gershom, Kohath, and Merari."
+  },
+  {
+   "verse": 17,
+   "start": 96.77,
+   "end": 101.27,
+   "text": "And these be the names of the sons of Gershom; Libni, and Shimei."
+  },
+  {
+   "verse": 18,
+   "start": 101.97,
+   "end": 108.24,
+   "text": "And the sons of Kohath were, Amram, and Izhar, and Hebron, and Uzziel."
+  },
+  {
+   "verse": 19,
+   "start": 108.94,
+   "end": 115.99,
+   "text": "The sons of Merari; Mahli, and Mushi. And these are the families of the Levites according to their fathers."
+  },
+  {
+   "verse": 20,
+   "start": 116.69,
+   "end": 121.96,
+   "text": "Of Gershom; Libni his son, Jahath his son, Zimmah his son,"
+  },
+  {
+   "verse": 21,
+   "start": 122.66,
+   "end": 128.67,
+   "text": "Joah his son, Iddo his son, Zerah his son, Jeaterai his son."
+  },
+  {
+   "verse": 22,
+   "start": 129.37,
+   "end": 134.98,
+   "text": "The sons of Kohath; Amminadab his son, Korah his son, Assir his son,"
+  },
+  {
+   "verse": 23,
+   "start": 135.68,
+   "end": 140.89,
+   "text": "Elkanah his son, and Ebiasaph his son, and Assir his son,"
+  },
+  {
+   "verse": 24,
+   "start": 141.59,
+   "end": 148.0,
+   "text": "Tahath his son, Uriel his son, Uzziah his son, and Shaul his son."
+  },
+  {
+   "verse": 25,
+   "start": 148.7,
+   "end": 152.72,
+   "text": "And the sons of Elkanah; Amasai, and Ahimoth."
+  },
+  {
+   "verse": 26,
+   "start": 153.42,
+   "end": 159.39,
+   "text": "As for Elkanah: the sons of Elkanah; Zophai his son, and Nahath his son,"
+  },
+  {
+   "verse": 27,
+   "start": 160.09,
+   "end": 164.37,
+   "text": "Eliab his son, Jeroham his son, Elkanah his son."
+  },
+  {
+   "verse": 28,
+   "start": 165.07,
+   "end": 169.33,
+   "text": "And the sons of Samuel; the firstborn Vashni, and Abiah."
+  },
+  {
+   "verse": 29,
+   "start": 170.03,
+   "end": 175.86,
+   "text": "The sons of Merari; Mahli, Libni his son, Shimei his son, Uzza his son,"
+  },
+  {
+   "verse": 30,
+   "start": 176.56,
+   "end": 181.99,
+   "text": "Shimea his son, Haggiah his son, Asaiah his son."
+  },
+  {
+   "verse": 31,
+   "start": 182.69,
+   "end": 189.76,
+   "text": "And these are they whom David set over the service of song in the house of the LORD, after that the ark had rest."
+  },
+  {
+   "verse": 32,
+   "start": 190.46,
+   "end": 202.72,
+   "text": "And they ministered before the dwelling place of the tabernacle of the congregation with singing, until Solomon had built the house of the LORD in Jerusalem: and then they waited on their office according to their order."
+  },
+  {
+   "verse": 33,
+   "start": 203.42,
+   "end": 213.97,
+   "text": "And these are they that waited with their children. Of the sons of the Kohathites: Heman a singer, the son of Joel, the son of Shemuel,"
+  },
+  {
+   "verse": 34,
+   "start": 214.67,
+   "end": 221.71,
+   "text": "The son of Elkanah, the son of Jeroham, the son of Eliel, the son of Toah,"
+  },
+  {
+   "verse": 35,
+   "start": 222.41,
+   "end": 228.68,
+   "text": "The son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai,"
+  },
+  {
+   "verse": 36,
+   "start": 229.38,
+   "end": 235.39,
+   "text": "The son of Elkanah, the son of Joel, the son of Azariah, the son of Zephaniah,"
+  },
+  {
+   "verse": 37,
+   "start": 236.09,
+   "end": 241.63,
+   "text": "The son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,"
+  },
+  {
+   "verse": 38,
+   "start": 242.33,
+   "end": 247.61,
+   "text": "The son of Izhar, the son of Kohath, the son of Levi, the son of Israel."
+  },
+  {
+   "verse": 39,
+   "start": 248.31,
+   "end": 255.15,
+   "text": "And his brother Asaph, who stood on his right hand, even Asaph the son of Berachiah, the son of Shimea,"
+  },
+  {
+   "verse": 40,
+   "start": 255.85,
+   "end": 260.14,
+   "text": "The son of Michael, the son of Baaseiah, the son of Malchiah,"
+  },
+  {
+   "verse": 41,
+   "start": 260.84,
+   "end": 265.83,
+   "text": "The son of Ethni, the son of Zerah, the son of Adaiah,"
+  },
+  {
+   "verse": 42,
+   "start": 266.53,
+   "end": 270.57,
+   "text": "The son of Ethan, the son of Zimmah, the son of Shimei,"
+  },
+  {
+   "verse": 43,
+   "start": 271.27,
+   "end": 275.77,
+   "text": "The son of Jahath, the son of Gershom, the son of Levi."
+  },
+  {
+   "verse": 44,
+   "start": 276.47,
+   "end": 284.97,
+   "text": "And their brethren the sons of Merari stood on the left hand: Ethan the son of Kishi, the son of Abdi, the son of Malluch,"
+  },
+  {
+   "verse": 45,
+   "start": 285.67,
+   "end": 290.35,
+   "text": "The son of Hashabiah, the son of Amaziah, the son of Hilkiah,"
+  },
+  {
+   "verse": 46,
+   "start": 291.05,
+   "end": 295.36,
+   "text": "The son of Amzi, the son of Bani, the son of Shamer,"
+  },
+  {
+   "verse": 47,
+   "start": 296.06,
+   "end": 301.7,
+   "text": "The son of Mahli, the son of Mushi, the son of Merari, the son of Levi."
+  },
+  {
+   "verse": 48,
+   "start": 302.4,
+   "end": 309.01,
+   "text": "Their brethren also the Levites were appointed unto all manner of service of the tabernacle of the house of God."
+  },
+  {
+   "verse": 49,
+   "start": 309.71,
+   "end": 325.04,
+   "text": "But Aaron and his sons offered upon the altar of the burnt offering, and on the altar of incense, and were appointed for all the work of the place most holy, and to make an atonement for Israel, according to all that Moses the servant of God had commanded."
+  },
+  {
+   "verse": 50,
+   "start": 325.74,
+   "end": 333.07,
+   "text": "And these are the sons of Aaron; Eleazar his son, Phinehas his son, Abishua his son,"
+  },
+  {
+   "verse": 51,
+   "start": 333.77,
+   "end": 339.01,
+   "text": "Bukki his son, Uzzi his son, Zerahiah his son,"
+  },
+  {
+   "verse": 52,
+   "start": 339.71,
+   "end": 344.32,
+   "text": "Meraioth his son, Amariah his son, Ahitub his son,"
+  },
+  {
+   "verse": 53,
+   "start": 345.02,
+   "end": 348.3,
+   "text": "Zadok his son, Ahimaaz his son."
+  },
+  {
+   "verse": 54,
+   "start": 349.0,
+   "end": 358.87,
+   "text": "Now these are their dwelling places throughout their castles in their coasts, of the sons of Aaron, of the families of the Kohathites: for theirs was the lot."
+  },
+  {
+   "verse": 55,
+   "start": 359.57,
+   "end": 364.42,
+   "text": "And they gave them Hebron in the land of Judah, and the suburbs thereof round about it."
+  },
+  {
+   "verse": 56,
+   "start": 365.12,
+   "end": 370.48,
+   "text": "But the fields of the city, and the villages thereof, they gave to Caleb the son of Jephunneh."
+  },
+  {
+   "verse": 57,
+   "start": 371.18,
+   "end": 383.98,
+   "text": "And to the sons of Aaron they gave the cities of Judah, namely, Hebron, the city of refuge, and Libnah with her suburbs, and Jattir, and Eshtemoa, with their suburbs,"
+  },
+  {
+   "verse": 58,
+   "start": 384.68,
+   "end": 388.33,
+   "text": "And Hilen with her suburbs, Debir with her suburbs,"
+  },
+  {
+   "verse": 59,
+   "start": 389.03,
+   "end": 393.32,
+   "text": "And Ashan with her suburbs, and Beth-shemesh with her suburbs:"
+  },
+  {
+   "verse": 60,
+   "start": 394.02,
+   "end": 406.64,
+   "text": "And out of the tribe of Benjamin; Geba with her suburbs, and Alemeth with her suburbs, and Anathoth with her suburbs. All their cities throughout their families were thirteen cities."
+  },
+  {
+   "verse": 61,
+   "start": 407.34,
+   "end": 419.57,
+   "text": "And unto the sons of Kohath, which were left of the family of that tribe, were cities given out of the half tribe, namely, out of the half tribe of Manasseh, by lot, ten cities."
+  },
+  {
+   "verse": 62,
+   "start": 420.27,
+   "end": 433.27,
+   "text": "And to the sons of Gershom throughout their families out of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the tribe of Manasseh in Bashan, thirteen cities."
+  },
+  {
+   "verse": 63,
+   "start": 433.97,
+   "end": 445.22,
+   "text": "Unto the sons of Merari were given by lot, throughout their families, out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities."
+  },
+  {
+   "verse": 64,
+   "start": 445.92,
+   "end": 451.12,
+   "text": "And the children of Israel gave to the Levites these cities with their suburbs."
+  },
+  {
+   "verse": 65,
+   "start": 451.82,
+   "end": 462.87,
+   "text": "And they gave by lot out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, and out of the tribe of the children of Benjamin, these cities, which are called by their names."
+  },
+  {
+   "verse": 66,
+   "start": 463.57,
+   "end": 470.09,
+   "text": "And the residue of the families of the sons of Kohath had cities of their coasts out of the tribe of Ephraim."
+  },
+  {
+   "verse": 67,
+   "start": 470.79,
+   "end": 478.89,
+   "text": "And they gave unto them, of the cities of refuge, Shechem in mount Ephraim with her suburbs; they gave also Gezer with her suburbs,"
+  },
+  {
+   "verse": 68,
+   "start": 479.59,
+   "end": 483.96,
+   "text": "And Jokmeam with her suburbs, and Beth-horon with her suburbs,"
+  },
+  {
+   "verse": 69,
+   "start": 484.66,
+   "end": 489.04,
+   "text": "And Aijalon with her suburbs, and Gath-rimmon with her suburbs:"
+  },
+  {
+   "verse": 70,
+   "start": 489.74,
+   "end": 499.29,
+   "text": "And out of the half tribe of Manasseh; Aner with her suburbs, and Bileam with her suburbs, for the family of the remnant of the sons of Kohath."
+  },
+  {
+   "verse": 71,
+   "start": 499.99,
+   "end": 509.97,
+   "text": "Unto the sons of Gershom were given out of the family of the half tribe of Manasseh, Golan in Bashan with her suburbs, and Ashtaroth with her suburbs:"
+  },
+  {
+   "verse": 72,
+   "start": 510.67,
+   "end": 517.0,
+   "text": "And out of the tribe of Issachar; Kedesh with her suburbs, Daberath with her suburbs,"
+  },
+  {
+   "verse": 73,
+   "start": 517.7,
+   "end": 521.35,
+   "text": "And Ramoth with her suburbs, and Anem with her suburbs:"
+  },
+  {
+   "verse": 74,
+   "start": 522.05,
+   "end": 527.35,
+   "text": "And out of the tribe of Asher; Mashal with her suburbs, and Abdon with her suburbs,"
+  },
+  {
+   "verse": 75,
+   "start": 528.05,
+   "end": 531.78,
+   "text": "And Hukok with her suburbs, and Rehob with her suburbs:"
+  },
+  {
+   "verse": 76,
+   "start": 532.48,
+   "end": 542.01,
+   "text": "And out of the tribe of Naphtali; Kedesh in Galilee with her suburbs, and Hammon with her suburbs, and Kirjathaim with her suburbs."
+  },
+  {
+   "verse": 77,
+   "start": 542.71,
+   "end": 551.91,
+   "text": "Unto the rest of the children of Merari were given out of the tribe of Zebulun, Rimmon with her suburbs, Tabor with her suburbs:"
+  },
+  {
+   "verse": 78,
+   "start": 552.61,
+   "end": 564.31,
+   "text": "And on the other side Jordan by Jericho, on the east side of Jordan, were given them out of the tribe of Reuben, Bezer in the wilderness with her suburbs, and Jahzah with her suburbs,"
+  },
+  {
+   "verse": 79,
+   "start": 565.01,
+   "end": 569.01,
+   "text": "Kedemoth also with her suburbs, and Mephaath with her suburbs:"
+  },
+  {
+   "verse": 80,
+   "start": 569.71,
+   "end": 576.59,
+   "text": "And out of the tribe of Gad; Ramoth in Gilead with her suburbs, and Mahanaim with her suburbs,"
+  },
+  {
+   "verse": 81,
+   "start": 577.29,
+   "end": 581.22,
+   "text": "And Heshbon with her suburbs, and Jazer with her suburbs."
+  }
+ ]
+}

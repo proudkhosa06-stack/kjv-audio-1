@@ -1,0 +1,342 @@
+{
+ "book": "1 Chronicles",
+ "chapter": 2,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "1 Chronicles-2.mp3",
+ "duration": 413.16,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 7.42,
+   "text": "These are the sons of Israel; Reuben, Simeon, Levi, and Judah, Issachar, and Zebulun,"
+  },
+  {
+   "verse": 2,
+   "start": 8.12,
+   "end": 12.72,
+   "text": "Dan, Joseph, and Benjamin, Naphtali, Gad, and Asher."
+  },
+  {
+   "verse": 3,
+   "start": 13.42,
+   "end": 28.35,
+   "text": "The sons of Judah; Er, and Onan, and Shelah: which three were born unto him of the daughter of Shua the Canaanitess. And Er, the firstborn of Judah, was evil in the sight of the LORD; and he slew him."
+  },
+  {
+   "verse": 4,
+   "start": 29.05,
+   "end": 35.14,
+   "text": "And Tamar his daughter in law bare him Pharez and Zerah. All the sons of Judah were five."
+  },
+  {
+   "verse": 5,
+   "start": 35.84,
+   "end": 38.72,
+   "text": "The sons of Pharez; Hezron, and Hamul."
+  },
+  {
+   "verse": 6,
+   "start": 39.42,
+   "end": 48.44,
+   "text": "And the sons of Zerah; Zimri, and Ethan, and Heman, and Calcol, and Dara: five of them in all."
+  },
+  {
+   "verse": 7,
+   "start": 49.14,
+   "end": 56.32,
+   "text": "And the sons of Carmi; Achar, the troubler of Israel, who transgressed in the thing accursed."
+  },
+  {
+   "verse": 8,
+   "start": 57.02,
+   "end": 59.47,
+   "text": "And the sons of Ethan; Azariah."
+  },
+  {
+   "verse": 9,
+   "start": 60.17,
+   "end": 66.91,
+   "text": "The sons also of Hezron, that were born unto him; Jerahmeel, and Ram, and Chelubai."
+  },
+  {
+   "verse": 10,
+   "start": 67.61,
+   "end": 73.52,
+   "text": "And Ram begat Amminadab; and Amminadab begat Nahshon, prince of the children of Judah;"
+  },
+  {
+   "verse": 11,
+   "start": 74.22,
+   "end": 78.1,
+   "text": "And Nahshon begat Salma, and Salma begat Boaz,"
+  },
+  {
+   "verse": 12,
+   "start": 78.8,
+   "end": 82.1,
+   "text": "And Boaz begat Obed, and Obed begat Jesse,"
+  },
+  {
+   "verse": 13,
+   "start": 82.8,
+   "end": 88.72,
+   "text": "And Jesse begat his firstborn Eliab, and Abinadab the second, and Shimma the third,"
+  },
+  {
+   "verse": 14,
+   "start": 89.42,
+   "end": 92.14,
+   "text": "Nethaneel the fourth, Raddai the fifth,"
+  },
+  {
+   "verse": 15,
+   "start": 92.84,
+   "end": 95.31,
+   "text": "Ozem the sixth, David the seventh:"
+  },
+  {
+   "verse": 16,
+   "start": 96.01,
+   "end": 105.59,
+   "text": "Whose sisters were Zeruiah, and Abigail. And the sons of Zeruiah; Abishai, and Joab, and Asahel, three."
+  },
+  {
+   "verse": 17,
+   "start": 106.29,
+   "end": 111.92,
+   "text": "And Abigail bare Amasa: and the father of Amasa was Jether the Ishmeelite."
+  },
+  {
+   "verse": 18,
+   "start": 112.62,
+   "end": 122.81,
+   "text": "And Caleb the son of Hezron begat children of Azubah his wife, and of Jerioth: her sons are these; Jesher, and Shobab, and Ardon."
+  },
+  {
+   "verse": 19,
+   "start": 123.51,
+   "end": 128.92,
+   "text": "And when Azubah was dead, Caleb took unto him Ephrath, which bare him Hur."
+  },
+  {
+   "verse": 20,
+   "start": 129.62,
+   "end": 134.14,
+   "text": "And Hur begat Uri, and Uri begat Bezaleel."
+  },
+  {
+   "verse": 21,
+   "start": 134.84,
+   "end": 144.78,
+   "text": "And afterward Hezron went in to the daughter of Machir the father of Gilead, whom he married when he was threescore years old; and she bare him Segub."
+  },
+  {
+   "verse": 22,
+   "start": 145.48,
+   "end": 150.49,
+   "text": "And Segub begat Jair, who had three and twenty cities in the land of Gilead."
+  },
+  {
+   "verse": 23,
+   "start": 151.19,
+   "end": 164.89,
+   "text": "And he took Geshur, and Aram, with the towns of Jair, from them, with Kenath, and the towns thereof, even threescore cities. All these belonged to the sons of Machir the father of Gilead."
+  },
+  {
+   "verse": 24,
+   "start": 165.59,
+   "end": 174.5,
+   "text": "And after that Hezron was dead in Caleb-ephratah, then Abiah Hezron's wife bare him Ashur the father of Tekoa."
+  },
+  {
+   "verse": 25,
+   "start": 175.2,
+   "end": 184.36,
+   "text": "And the sons of Jerahmeel the firstborn of Hezron were, Ram the firstborn, and Bunah, and Oren, and Ozem, and Ahijah."
+  },
+  {
+   "verse": 26,
+   "start": 185.06,
+   "end": 190.77,
+   "text": "Jerahmeel had also another wife, whose name was Atarah; she was the mother of Onam."
+  },
+  {
+   "verse": 27,
+   "start": 191.47,
+   "end": 197.33,
+   "text": "And the sons of Ram the firstborn of Jerahmeel were, Maaz, and Jamin, and Eker."
+  },
+  {
+   "verse": 28,
+   "start": 198.03,
+   "end": 205.42,
+   "text": "And the sons of Onam were, Shammai, and Jada. And the sons of Shammai; Nadab, and Abishur."
+  },
+  {
+   "verse": 29,
+   "start": 206.12,
+   "end": 213.75,
+   "text": "And the name of the wife of Abishur was Abihail, and she bare him Ahban, and Molid."
+  },
+  {
+   "verse": 30,
+   "start": 214.45,
+   "end": 220.06,
+   "text": "And the sons of Nadab; Seled, and Appaim: but Seled died without children."
+  },
+  {
+   "verse": 31,
+   "start": 220.76,
+   "end": 231.36,
+   "text": "And the sons of Appaim; Ishi. And the sons of Ishi; Sheshan. And the children of Sheshan; Ahlai."
+  },
+  {
+   "verse": 32,
+   "start": 232.06,
+   "end": 238.44,
+   "text": "And the sons of Jada the brother of Shammai; Jether, and Jonathan: and Jether died without children."
+  },
+  {
+   "verse": 33,
+   "start": 239.14,
+   "end": 245.09,
+   "text": "And the sons of Jonathan; Peleth, and Zaza. These were the sons of Jerahmeel."
+  },
+  {
+   "verse": 34,
+   "start": 245.79,
+   "end": 253.52,
+   "text": "Now Sheshan had no sons, but daughters. And Sheshan had a servant, an Egyptian, whose name was Jarha."
+  },
+  {
+   "verse": 35,
+   "start": 254.22,
+   "end": 259.7,
+   "text": "And Sheshan gave his daughter to Jarha his servant to wife; and she bare him Attai."
+  },
+  {
+   "verse": 36,
+   "start": 260.4,
+   "end": 264.71,
+   "text": "And Attai begat Nathan, and Nathan begat Zabad,"
+  },
+  {
+   "verse": 37,
+   "start": 265.41,
+   "end": 269.56,
+   "text": "And Zabad begat Ephlal, and Ephlal begat Obed,"
+  },
+  {
+   "verse": 38,
+   "start": 270.26,
+   "end": 274.6,
+   "text": "And Obed begat Jehu, and Jehu begat Azariah,"
+  },
+  {
+   "verse": 39,
+   "start": 275.3,
+   "end": 280.1,
+   "text": "And Azariah begat Helez, and Helez begat Eleasah,"
+  },
+  {
+   "verse": 40,
+   "start": 280.8,
+   "end": 284.73,
+   "text": "And Eleasah begat Sisamai, and Sisamai begat Shallum,"
+  },
+  {
+   "verse": 41,
+   "start": 285.43,
+   "end": 290.45,
+   "text": "And Shallum begat Jekamiah, and Jekamiah begat Elishama."
+  },
+  {
+   "verse": 42,
+   "start": 291.15,
+   "end": 302.67,
+   "text": "Now the sons of Caleb the brother of Jerahmeel were, Mesha his firstborn, which was the father of Ziph; and the sons of Mareshah the father of Hebron."
+  },
+  {
+   "verse": 43,
+   "start": 303.37,
+   "end": 308.87,
+   "text": "And the sons of Hebron; Korah, and Tappuah, and Rekem, and Shema."
+  },
+  {
+   "verse": 44,
+   "start": 309.57,
+   "end": 315.12,
+   "text": "And Shema begat Raham, the father of Jorkoam: and Rekem begat Shammai."
+  },
+  {
+   "verse": 45,
+   "start": 315.82,
+   "end": 320.81,
+   "text": "And the son of Shammai was Maon: and Maon was the father of Beth-zur."
+  },
+  {
+   "verse": 46,
+   "start": 321.51,
+   "end": 329.26,
+   "text": "And Ephah, Caleb's concubine, bare Haran, and Moza, and Gazez: and Haran begat Gazez."
+  },
+  {
+   "verse": 47,
+   "start": 329.96,
+   "end": 337.85,
+   "text": "And the sons of Jahdai; Regem, and Jotham, and Geshan, and Pelet, and Ephah, and Shaaph."
+  },
+  {
+   "verse": 48,
+   "start": 338.55,
+   "end": 342.81,
+   "text": "Maachah, Caleb's concubine, bare Sheber, and Tirhanah."
+  },
+  {
+   "verse": 49,
+   "start": 343.51,
+   "end": 354.15,
+   "text": "She bare also Shaaph the father of Madmannah, Sheva the father of Machbenah, and the father of Gibea: and the daughter of Caleb was Achsah."
+  },
+  {
+   "verse": 50,
+   "start": 354.85,
+   "end": 362.94,
+   "text": "These were the sons of Caleb the son of Hur, the firstborn of Ephratah; Shobal the father of Kirjath-jearim,"
+  },
+  {
+   "verse": 51,
+   "start": 363.64,
+   "end": 368.41,
+   "text": "Salma the father of Beth-lehem, Hareph the father of Beth-gader."
+  },
+  {
+   "verse": 52,
+   "start": 369.11,
+   "end": 376.31,
+   "text": "And Shobal the father of Kirjath-jearim had sons; Haroeh, and half of the Manahethites."
+  },
+  {
+   "verse": 53,
+   "start": 377.01,
+   "end": 388.79,
+   "text": "And the families of Kirjath-jearim; the Ithrites, and the Puhites, and the Shumathites, and the Mishraites; of them came the Zareathites, and the Eshtaulites."
+  },
+  {
+   "verse": 54,
+   "start": 389.49,
+   "end": 399.06,
+   "text": "The sons of Salma; Beth-lehem, and the Netophathites, Ataroth, the house of Joab, and half of the Manahethites, the Zorites."
+  },
+  {
+   "verse": 55,
+   "start": 399.76,
+   "end": 412.09,
+   "text": "And the families of the scribes which dwelt at Jabez; the Tirathites, the Shimeathites, and Suchathites. These are the Kenites that came of Hemath, the father of the house of Rechab."
+  }
+ ]
+}
