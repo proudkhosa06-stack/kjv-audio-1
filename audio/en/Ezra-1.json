@@ -1,0 +1,78 @@
+{
+ "book": "Ezra",
+ "chapter": 1,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Ezra-1.mp3",
+ "duration": 137.74,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 16.43,
+   "text": "Now in the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be fulfilled, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,"
+  },
+  {
+   "verse": 2,
+   "start": 17.13,
+   "end": 29.08,
+   "text": "Thus saith Cyrus king of Persia, The LORD God of heaven hath given me all the kingdoms of the earth; and he hath charged me to build him an house at Jerusalem, which is in Judah."
+  },
+  {
+   "verse": 3,
+   "start": 29.78,
+   "end": 44.77,
+   "text": "Who is there among you of all his people? his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of the LORD God of Israel, (he is the God,) which is in Jerusalem."
+  },
+  {
+   "verse": 4,
+   "start": 45.47,
+   "end": 61.29,
+   "text": "And whosoever remaineth in any place where he sojourneth, let the men of his place help him with silver, and with gold, and with goods, and with beasts, beside the freewill offering for the house of God that is in Jerusalem."
+  },
+  {
+   "verse": 5,
+   "start": 61.99,
+   "end": 73.62,
+   "text": "Then rose up the chief of the fathers of Judah and Benjamin, and the priests, and the Levites, with all them whose spirit God had raised, to go up to build the house of the LORD which is in Jerusalem."
+  },
+  {
+   "verse": 6,
+   "start": 74.32,
+   "end": 85.88,
+   "text": "And all they that were about them strengthened their hands with vessels of silver, with gold, with goods, and with beasts, and with precious things, beside all that was willingly offered."
+  },
+  {
+   "verse": 7,
+   "start": 86.58,
+   "end": 96.86,
+   "text": "Also Cyrus the king brought forth the vessels of the house of the LORD, which Nebuchadnezzar had brought forth out of Jerusalem, and had put them in the house of his gods;"
+  },
+  {
+   "verse": 8,
+   "start": 97.56,
+   "end": 106.78,
+   "text": "Even those did Cyrus king of Persia bring forth by the hand of Mithredath the treasurer, and numbered them unto Sheshbazzar, the prince of Judah."
+  },
+  {
+   "verse": 9,
+   "start": 107.48,
+   "end": 114.58,
+   "text": "And this is the number of them: thirty chargers of gold, a thousand chargers of silver, nine and twenty knives,"
+  },
+  {
+   "verse": 10,
+   "start": 115.28,
+   "end": 123.35,
+   "text": "Thirty basons of gold, silver basons of a second sort four hundred and ten, and other vessels a thousand."
+  },
+  {
+   "verse": 11,
+   "start": 124.05,
+   "end": 136.68,
+   "text": "All the vessels of gold and of silver were five thousand and four hundred. All these did Sheshbazzar bring up with them of the captivity that were brought up from Babylon unto Jerusalem."
+  }
+ ]
+}

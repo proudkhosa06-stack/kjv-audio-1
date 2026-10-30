@@ -1,0 +1,432 @@
+{
+ "book": "Ezra",
+ "chapter": 2,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Ezra-2.mp3",
+ "duration": 425.83,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 16.29,
+   "text": "Now these are the children of the province that went up out of the captivity, of those which had been carried away, whom Nebuchadnezzar the king of Babylon had carried away unto Babylon, and came again unto Jerusalem and Judah, every one unto his city;"
+  },
+  {
+   "verse": 2,
+   "start": 16.99,
+   "end": 32.13,
+   "text": "Which came with Zerubbabel: Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, Baanah. The number of the men of the people of Israel:"
+  },
+  {
+   "verse": 3,
+   "start": 32.83,
+   "end": 36.4,
+   "text": "The children of Parosh, two thousand an hundred seventy and two."
+  },
+  {
+   "verse": 4,
+   "start": 37.1,
+   "end": 40.07,
+   "text": "The children of Shephatiah, three hundred seventy and two."
+  },
+  {
+   "verse": 5,
+   "start": 40.77,
+   "end": 44.1,
+   "text": "The children of Arah, seven hundred seventy and five."
+  },
+  {
+   "verse": 6,
+   "start": 44.8,
+   "end": 52.05,
+   "text": "The children of Pahath-moab, of the children of Jeshua and Joab, two thousand eight hundred and twelve."
+  },
+  {
+   "verse": 7,
+   "start": 52.75,
+   "end": 56.06,
+   "text": "The children of Elam, a thousand two hundred fifty and four."
+  },
+  {
+   "verse": 8,
+   "start": 56.76,
+   "end": 59.53,
+   "text": "The children of Zattu, nine hundred forty and five."
+  },
+  {
+   "verse": 9,
+   "start": 60.23,
+   "end": 64.09,
+   "text": "The children of Zaccai, seven hundred and threescore."
+  },
+  {
+   "verse": 10,
+   "start": 64.79,
+   "end": 67.41,
+   "text": "The children of Bani, six hundred forty and two."
+  },
+  {
+   "verse": 11,
+   "start": 68.11,
+   "end": 70.81,
+   "text": "The children of Bebai, six hundred twenty and three."
+  },
+  {
+   "verse": 12,
+   "start": 71.51,
+   "end": 74.61,
+   "text": "The children of Azgad, a thousand two hundred twenty and two."
+  },
+  {
+   "verse": 13,
+   "start": 75.31,
+   "end": 79.26,
+   "text": "The children of Adonikam, six hundred sixty and six."
+  },
+  {
+   "verse": 14,
+   "start": 79.96,
+   "end": 83.37,
+   "text": "The children of Bigvai, two thousand fifty and six."
+  },
+  {
+   "verse": 15,
+   "start": 84.07,
+   "end": 86.94,
+   "text": "The children of Adin, four hundred fifty and four."
+  },
+  {
+   "verse": 16,
+   "start": 87.64,
+   "end": 90.88,
+   "text": "The children of Ater of Hezekiah, ninety and eight."
+  },
+  {
+   "verse": 17,
+   "start": 91.58,
+   "end": 94.56,
+   "text": "The children of Bezai, three hundred twenty and three."
+  },
+  {
+   "verse": 18,
+   "start": 95.26,
+   "end": 98.02,
+   "text": "The children of Jorah, an hundred and twelve."
+  },
+  {
+   "verse": 19,
+   "start": 98.72,
+   "end": 101.43,
+   "text": "The children of Hashum, two hundred twenty and three."
+  },
+  {
+   "verse": 20,
+   "start": 102.13,
+   "end": 104.77,
+   "text": "The children of Gibbar, ninety and five."
+  },
+  {
+   "verse": 21,
+   "start": 105.47,
+   "end": 108.47,
+   "text": "The children of Beth-lehem, an hundred twenty and three."
+  },
+  {
+   "verse": 22,
+   "start": 109.17,
+   "end": 111.7,
+   "text": "The men of Netophah, fifty and six."
+  },
+  {
+   "verse": 23,
+   "start": 112.4,
+   "end": 115.32,
+   "text": "The men of Anathoth, an hundred twenty and eight."
+  },
+  {
+   "verse": 24,
+   "start": 116.02,
+   "end": 118.75,
+   "text": "The children of Azmaveth, forty and two."
+  },
+  {
+   "verse": 25,
+   "start": 119.45,
+   "end": 125.74,
+   "text": "The children of Kirjath-arim, Chephirah, and Beeroth, seven hundred and forty and three."
+  },
+  {
+   "verse": 26,
+   "start": 126.44,
+   "end": 130.39,
+   "text": "The children of Ramah and Gaba, six hundred twenty and one."
+  },
+  {
+   "verse": 27,
+   "start": 131.09,
+   "end": 133.92,
+   "text": "The men of Michmas, an hundred twenty and two."
+  },
+  {
+   "verse": 28,
+   "start": 134.62,
+   "end": 137.87,
+   "text": "The men of Beth-el and Ai, two hundred twenty and three."
+  },
+  {
+   "verse": 29,
+   "start": 138.57,
+   "end": 140.91,
+   "text": "The children of Nebo, fifty and two."
+  },
+  {
+   "verse": 30,
+   "start": 141.61,
+   "end": 144.97,
+   "text": "The children of Magbish, an hundred fifty and six."
+  },
+  {
+   "verse": 31,
+   "start": 145.67,
+   "end": 150.34,
+   "text": "The children of the other Elam, a thousand two hundred fifty and four."
+  },
+  {
+   "verse": 32,
+   "start": 151.04,
+   "end": 153.99,
+   "text": "The children of Harim, three hundred and twenty."
+  },
+  {
+   "verse": 33,
+   "start": 154.69,
+   "end": 158.94,
+   "text": "The children of Lod, Hadid, and Ono, seven hundred twenty and five."
+  },
+  {
+   "verse": 34,
+   "start": 159.64,
+   "end": 162.72,
+   "text": "The children of Jericho, three hundred forty and five."
+  },
+  {
+   "verse": 35,
+   "start": 163.42,
+   "end": 168.22,
+   "text": "The children of Senaah, three thousand and six hundred and thirty."
+  },
+  {
+   "verse": 36,
+   "start": 168.92,
+   "end": 174.76,
+   "text": "The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three."
+  },
+  {
+   "verse": 37,
+   "start": 175.46,
+   "end": 178.48,
+   "text": "The children of Immer, a thousand fifty and two."
+  },
+  {
+   "verse": 38,
+   "start": 179.18,
+   "end": 182.82,
+   "text": "The children of Pashur, a thousand two hundred forty and seven."
+  },
+  {
+   "verse": 39,
+   "start": 183.52,
+   "end": 186.89,
+   "text": "The children of Harim, a thousand and seventeen."
+  },
+  {
+   "verse": 40,
+   "start": 187.59,
+   "end": 195.49,
+   "text": "The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy and four."
+  },
+  {
+   "verse": 41,
+   "start": 196.19,
+   "end": 199.87,
+   "text": "The singers: the children of Asaph, an hundred twenty and eight."
+  },
+  {
+   "verse": 42,
+   "start": 200.57,
+   "end": 213.49,
+   "text": "The children of the porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, in all an hundred thirty and nine."
+  },
+  {
+   "verse": 43,
+   "start": 214.19,
+   "end": 220.43,
+   "text": "The Nethinims: the children of Ziha, the children of Hasupha, the children of Tabbaoth,"
+  },
+  {
+   "verse": 44,
+   "start": 221.13,
+   "end": 225.79,
+   "text": "The children of Keros, the children of Siaha, the children of Padon,"
+  },
+  {
+   "verse": 45,
+   "start": 226.49,
+   "end": 231.24,
+   "text": "The children of Lebanah, the children of Hagabah, the children of Akkub,"
+  },
+  {
+   "verse": 46,
+   "start": 231.94,
+   "end": 236.05,
+   "text": "The children of Hagab, the children of Shalmai, the children of Hanan,"
+  },
+  {
+   "verse": 47,
+   "start": 236.75,
+   "end": 240.95,
+   "text": "The children of Giddel, the children of Gahar, the children of Reaiah,"
+  },
+  {
+   "verse": 48,
+   "start": 241.65,
+   "end": 246.33,
+   "text": "The children of Rezin, the children of Nekoda, the children of Gazzam,"
+  },
+  {
+   "verse": 49,
+   "start": 247.03,
+   "end": 251.67,
+   "text": "The children of Uzza, the children of Paseah, the children of Besai,"
+  },
+  {
+   "verse": 50,
+   "start": 252.37,
+   "end": 257.7,
+   "text": "The children of Asnah, the children of Mehunim, the children of Nephusim,"
+  },
+  {
+   "verse": 51,
+   "start": 258.4,
+   "end": 263.42,
+   "text": "The children of Bakbuk, the children of Hakupha, the children of Harhur,"
+  },
+  {
+   "verse": 52,
+   "start": 264.12,
+   "end": 269.03,
+   "text": "The children of Bazluth, the children of Mehida, the children of Harsha,"
+  },
+  {
+   "verse": 53,
+   "start": 269.73,
+   "end": 274.36,
+   "text": "The children of Barkos, the children of Sisera, the children of Thamah,"
+  },
+  {
+   "verse": 54,
+   "start": 275.06,
+   "end": 278.65,
+   "text": "The children of Neziah, the children of Hatipha."
+  },
+  {
+   "verse": 55,
+   "start": 279.35,
+   "end": 285.74,
+   "text": "The children of Solomon's servants: the children of Sotai, the children of Sophereth, the children of Peruda,"
+  },
+  {
+   "verse": 56,
+   "start": 286.44,
+   "end": 291.19,
+   "text": "The children of Jaalah, the children of Darkon, the children of Giddel,"
+  },
+  {
+   "verse": 57,
+   "start": 291.89,
+   "end": 298.96,
+   "text": "The children of Shephatiah, the children of Hattil, the children of Pochereth of Zebaim, the children of Ami."
+  },
+  {
+   "verse": 58,
+   "start": 299.66,
+   "end": 304.8,
+   "text": "All the Nethinims, and the children of Solomon's servants, were three hundred ninety and two."
+  },
+  {
+   "verse": 59,
+   "start": 305.5,
+   "end": 319.85,
+   "text": "And these were they which went up from Tel-melah, Tel-harsa, Cherub, Addan, and Immer: but they could not shew their father's house, and their seed, whether they were of Israel:"
+  },
+  {
+   "verse": 60,
+   "start": 320.55,
+   "end": 327.31,
+   "text": "The children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred fifty and two."
+  },
+  {
+   "verse": 61,
+   "start": 328.01,
+   "end": 342.42,
+   "text": "And of the children of the priests: the children of Habaiah, the children of Koz, the children of Barzillai; which took a wife of the daughters of Barzillai the Gileadite, and was called after their name:"
+  },
+  {
+   "verse": 62,
+   "start": 343.12,
+   "end": 352.33,
+   "text": "These sought their register among those that were reckoned by genealogy, but they were not found: therefore were they, as polluted, put from the priesthood."
+  },
+  {
+   "verse": 63,
+   "start": 353.03,
+   "end": 362.81,
+   "text": "And the Tirshatha said unto them, that they should not eat of the most holy things, till there stood up a priest with Urim and with Thummim."
+  },
+  {
+   "verse": 64,
+   "start": 363.51,
+   "end": 368.34,
+   "text": "The whole congregation together was forty and two thousand three hundred and threescore,"
+  },
+  {
+   "verse": 65,
+   "start": 369.04,
+   "end": 379.33,
+   "text": "Beside their servants and their maids, of whom there were seven thousand three hundred thirty and seven: and there were among them two hundred singing men and singing women."
+  },
+  {
+   "verse": 66,
+   "start": 380.03,
+   "end": 385.07,
+   "text": "Their horses were seven hundred thirty and six; their mules, two hundred forty and five;"
+  },
+  {
+   "verse": 67,
+   "start": 385.77,
+   "end": 392.41,
+   "text": "Their camels, four hundred thirty and five; their asses, six thousand seven hundred and twenty."
+  },
+  {
+   "verse": 68,
+   "start": 393.11,
+   "end": 402.0,
+   "text": "And some of the chief of the fathers, when they came to the house of the LORD which is at Jerusalem, offered freely for the house of God to set it up in his place:"
+  },
+  {
+   "verse": 69,
+   "start": 402.7,
+   "end": 413.75,
+   "text": "They gave after their ability unto the treasure of the work threescore and one thousand drams of gold, and five thousand pound of silver, and one hundred priests' garments."
+  },
+  {
+   "verse": 70,
+   "start": 414.45,
+   "end": 424.78,
+   "text": "So the priests, and the Levites, and some of the people, and the singers, and the porters, and the Nethinims, dwelt in their cities, and all Israel in their cities."
+  }
+ ]
+}
