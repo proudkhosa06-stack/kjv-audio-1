@@ -1,0 +1,72 @@
+{
+ "book": "Esther",
+ "chapter": 7,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Esther-7.mp3",
+ "duration": 124.2,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 4.02,
+   "text": "So the king and Haman came to banquet with Esther the queen."
+  },
+  {
+   "verse": 2,
+   "start": 4.72,
+   "end": 18.07,
+   "text": "And the king said again unto Esther on the second day at the banquet of wine, What is thy petition, queen Esther? and it shall be granted thee: and what is thy request? and it shall be performed, even to the half of the kingdom."
+  },
+  {
+   "verse": 3,
+   "start": 18.77,
+   "end": 31.67,
+   "text": "Then Esther the queen answered and said, If I have found favour in thy sight, O king, and if it please the king, let my life be given me at my petition, and my people at my request:"
+  },
+  {
+   "verse": 4,
+   "start": 32.37,
+   "end": 46.71,
+   "text": "For we are sold, I and my people, to be destroyed, to be slain, and to perish. But if we had been sold for bondmen and bondwomen, I had held my tongue, although the enemy could not countervail the king's damage."
+  },
+  {
+   "verse": 5,
+   "start": 47.41,
+   "end": 57.66,
+   "text": "Then the king Ahasuerus answered and said unto Esther the queen, Who is he, and where is he, that durst presume in his heart to do so?"
+  },
+  {
+   "verse": 6,
+   "start": 58.36,
+   "end": 65.53,
+   "text": "And Esther said, The adversary and enemy is this wicked Haman. Then Haman was afraid before the king and the queen."
+  },
+  {
+   "verse": 7,
+   "start": 66.23,
+   "end": 79.37,
+   "text": "And the king arising from the banquet of wine in his wrath went into the palace garden: and Haman stood up to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king."
+  },
+  {
+   "verse": 8,
+   "start": 80.07,
+   "end": 96.49,
+   "text": "Then the king returned out of the palace garden into the place of the banquet of wine; and Haman was fallen upon the bed whereon Esther was. Then said the king, Will he force the queen also before me in the house? As the word went out of the king's mouth, they covered Haman's face."
+  },
+  {
+   "verse": 9,
+   "start": 97.19,
+   "end": 115.26,
+   "text": "And Harbonah, one of the chamberlains, said before the king, Behold also, the gallows fifty cubits high, which Haman had made for Mordecai, who had spoken good for the king, standeth in the house of Haman. Then the king said, Hang him thereon."
+  },
+  {
+   "verse": 10,
+   "start": 115.96,
+   "end": 123.15,
+   "text": "So they hanged Haman on the gallows that he had prepared for Mordecai. Then was the king's wrath pacified."
+  }
+ ]
+}
